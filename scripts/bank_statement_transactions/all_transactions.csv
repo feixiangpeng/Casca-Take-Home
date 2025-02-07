@@ -1,0 +1,156 @@
+date,description,amount,balance,type,is_credit,source_file
+2018-04-01,IMPS-MOB/Fund Trf/809119519742/Oma Ram/BENE - VER,-1.0,22.62,debit,False,bank statement 1.pdf
+2018-04-01,IMPS-MOB/Fund Trf/809119553510/Oma Ram/2000,2000.0,2022.62,credit,True,bank statement 1.pdf
+2018-04-03,NACH/TP ACH Bajaj Finanac/88551679,-1912.0,110.62,debit,False,bank statement 1.pdf
+2018-04-04,APB-INW/HP644950 000009 3003,170.2,280.82,debit,True,bank statement 1.pdf
+2018-04-04,POS-VISA/KARUN MEDICAL/809414290216,-75.0,205.82,debit,False,bank statement 1.pdf
+2018-04-05,IMPS-MOB/Fund Trf/809521437177/NITI N POOJARI/null,3200.0,3405.82,credit,True,bank statement 1.pdf
+2018-04-10,BILLPAY/RECH/VODAFONE PRE/181000095 662/10042018,-509.0,2896.82,debit,False,bank statement 1.pdf
+2018-04-10,ATM-NFS/CASH WITHDRAWAL/+DONGRI OAT M/810020011497,-2000.0,896.82,debit,False,bank statement 1.pdf
+2018-04-14,ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/810418,-500.0,396.82,debit,False,bank statement 1.pdf
+2018-04-20,IMPS-RIB/Fund Trf/811010759849/Pay Rs300,-300.0,96.82,debit,False,bank statement 1.pdf
+2018-04-20,IMPS-RIB/FT-REV/811010759849/Pay Rs 300,300.0,396.82,credit,True,bank statement 1.pdf
+2018-04-20,POS-VISA/MANSI MEDICAL/811013502615,-75.0,321.82,debit,False,bank statement 1.pdf
+2018-04-22,IMPS-MOB/Fund Trf/811212400262/Chan drakant Yuv/BE,1.0,322.82,debit,True,bank statement 1.pdf
+2018-04-22,IMPS-MOB/Fund Trf/811212428216/Chan drakant Yuv/ch,4999.0,5321.82,credit,True,bank statement 1.pdf
+2018-04-22,IMPS-RIB/Fund Trf/811212820665/Pay salary,-1000.0,4321.82,debit,False,bank statement 1.pdf
+2018-04-22,IMPS-RIB/Fund Trf/811213820961/Pay for salary,-500.0,3821.82,debit,False,bank statement 1.pdf
+2018-04-23,ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/811309,-1000.0,2821.82,debit,False,bank statement 1.pdf
+2018-04-23,IMPS-RIB/Fund Trf/811320861437/Pay salaryRs2500,-2500.0,321.82,debit,False,bank statement 1.pdf
+2018-04-23,IMPS-RIB/Fund Trf/811321862644/Pay 300,-300.0,21.82,credit,False,bank statement 1.pdf
+2018-05-03,IMPS-INET/Fund Trf/812321002185/Cha ndrakant Yuv/I,2000.0,2021.82,credit,True,bank statement 1.pdf
+2018-05-05,NACH/TP ACH Bajaj Finanac/97127969,-1912.0,109.82,debit,False,bank statement 1.pdf
+2018-05-09,ATM-NFS/CASH WITHDRAWAL/+WHITE HOUS E/812912009989,-100.0,9.82,debit,False,bank statement 1.pdf
+2018-05-09,IMPS-MOB/Fund Trf/812917902484/SACH IN PANDURAN/Fr,200.0,209.82,debit,True,bank statement 1.pdf
+2018-05-11,IMPS-RIB/Fund Trf/813114420579/Pay salary,-200.0,9.82,debit,False,bank statement 1.pdf
+2018-05-11,IMPS-RIB/FT-REV/813114420579/Pay sa lary,200.0,209.82,debit,True,bank statement 1.pdf
+2018-05-11,IMPS-RIB/Fund Trf/813117426391/Pay for arjant,-200.0,9.82,debit,False,bank statement 1.pdf
+2018-05-11,IMPS-RIB/FT-REV/813117426391/Pay fo r arjant,200.0,209.82,debit,True,bank statement 1.pdf
+2018-05-12,BILLPAY/RECH/IDEA PREPAID/181320083 270/12052018,-27.0,182.82,debit,False,bank statement 1.pdf
+2018-05-16,ATM-NFS/CASH WITHDRAWAL/+Sandhurst Road/8136190082,-100.0,82.82,debit,False,bank statement 1.pdf
+2018-05-17,APB-INW/HP644950 012055 1405,134.06,216.88,credit,True,bank statement 1.pdf
+2018-05-17,IMPS-MOB/Fund Trf/813700005886/RID- 24 SP/9090,6000.0,6216.88,credit,True,bank statement 1.pdf
+2018-05-18,IMPS-MOB/Fund Trf/813800005916/RID- 24 SP/0098,1200.0,7416.88,credit,True,bank statement 1.pdf
+2018-05-18,ATM-NFS/CASH WITHDRAWAL/+WADIBUNDER /813810005906,-500.0,6916.88,debit,False,bank statement 1.pdf
+2018-05-20,ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/814016,-500.0,6416.88,debit,False,bank statement 1.pdf
+2018-05-20,POS-VISA/KARUN MEDICAL/814016444557,-75.0,6341.88,debit,False,bank statement 1.pdf
+2018-05-21,ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/814110,-1000.0,5341.88,debit,False,bank statement 1.pdf
+2018-05-21,POS-VISA/FLIPKART PAYMENTS/81410945 1953,-569.0,4772.88,debit,False,bank statement 1.pdf
+2018-05-21,ATM-NFS/CASH WITHDRAWAL/+GOVANDI EA ST BR/814117029,-3000.0,1772.88,debit,False,bank statement 1.pdf
+2018-05-21,POS-VISA/HOTEL SAROJ/814118881722,-300.0,1472.88,debit,False,bank statement 1.pdf
+2018-05-23,BILLPAY/RECH/VODAFONE PRE/181430064 620/23052018,-100.0,1372.88,debit,False,bank statement 1.pdf
+2018-05-23,BILLPAY/RECH/TATASKY DTH/1814300658 42/23052018,-1000.0,372.88,debit,False,bank statement 1.pdf
+2018-06-01,POS-VISA/Upper Crust Foods Pvt THAN E/815214619098,-261.0,111.88,debit,False,bank statement 1.pdf
+2018-06-01,IMPS-MOB/Fund Trf/815200006812/RID- 24 SP/Payment,2000.0,2111.88,credit,True,bank statement 1.pdf
+2018-06-02,NACH/TP ACH Bajaj Finanac/101294174,-1912.0,199.88,debit,False,bank statement 1.pdf
+2018-06-06,Charge:Cash Wdl at other ATM/Inv270 5181513668571/2,-20.0,179.88,debit,False,bank statement 1.pdf
+2018-06-06,CGST on Charge:Cash Wdl at other AT M/Inv2705181513,-1.8,178.08,debit,False,bank statement 1.pdf
+2018-06-06,SGST on Charge:Cash Wdl at other AT M/Inv2705181513,-1.8,176.28,debit,False,bank statement 1.pdf
+2018-06-19,APB-INW/HP644950 018603 1106,180.19,356.47,credit,True,bank statement 1.pdf
+2018-06-30,CREDIT INTEREST CRED,9.0,365.47,credit,True,bank statement 1.pdf
+2018-07-01,IMPS-MOB/Fund Trf/818200008670/RID- 24 SP/Pay for,2000.0,2365.47,credit,True,bank statement 1.pdf
+2018-07-02,NACH/TP ACH Bajaj Finanac/108265552,-1912.0,453.47,debit,False,bank statement 1.pdf
+2018-07-03,POS-VISA/KARUN MEDICAL/818406584956,-75.0,378.47,debit,False,bank statement 1.pdf
+2018-07-05,IMPS-MOB/Fund Trf/818600008933/RID- 24 SP/Pay forl,6000.0,6378.47,credit,True,bank statement 1.pdf
+2018-07-05,BILLPAY/QUICK/Tata Power /181862237 092/05072018,-4708.0,1670.47,debit,False,bank statement 1.pdf
+2018-07-06,POS-VISA/Chembur Trombay EducatMUMB AI/818716574514,-473.56,1196.91,debit,False,bank statement 1.pdf
+2018-07-07,BILLPAY/RECH/VIDEOCON DTH/181882351 400/07072018,-285.0,911.91,debit,False,bank statement 1.pdf
+2018-07-07,BILLPAY/RECH/AIRTEL PREPA/181882382 248/07072018,-199.0,712.91,debit,False,bank statement 1.pdf
+2018-07-08,BILLPAY/RECH/IDEA PREPAID/181892448 103/08072018,-398.0,314.91,debit,False,bank statement 1.pdf
+2018-07-13,POS-VISA/MANSI MEDICAL/819413057303,-75.0,239.91,debit,False,bank statement 1.pdf
+2018-07-13,POS-VISA/MANSI MEDICAL/819413154044,-229.0,10.91,debit,False,bank statement 1.pdf
+2018-07-21,APB-INW/HP644950 027334 1307,234.41,245.32,credit,True,bank statement 1.pdf
+2018-07-24,ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/820500,-100.0,145.32,debit,False,bank statement 1.pdf
+2018-07-24,ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/820500,-100.0,45.32,debit,False,bank statement 1.pdf
+2018-08-02,IMPS-MOB/Fund Trf/821400010710/BAYY AN MA/Ok,2000.0,2045.32,credit,True,bank statement 1.pdf
+2018-08-06,ATM-NFS/CASH WITHDRAWAL/+GRANT ROAD BR/82181001789,-500.0,1545.32,debit,False,bank statement 1.pdf
+2018-08-07,IMPS-INET/Fund Trf/821922266679/Cha n/Neft_transac,1000.0,2545.32,credit,True,bank statement 1.pdf
+2018-08-08,POS-VISA/MOBIKWK/822005940645,-2362.0,183.32,debit,False,bank statement 1.pdf
+2018-08-13,ATM-NFS/CASH WITHDRAWAL/NEAR HINDUJ A COLLEGE/82251,-100.0,83.32,debit,False,bank statement 1.pdf
+2018-08-15,POS-VISA/KARUN MEDICAL/822706734149,-75.0,8.32,debit,False,bank statement 1.pdf
+2018-08-17,IMPS-RIB/Fund Trf/823000040666/Pay for argant,-3.0,5.32,debit,False,bank statement 1.pdf
+2018-08-31,IMPS-MOB/Fund Trf/824301262361/FINN OVATION DIS/Ac,1.0,6.32,debit,True,bank statement 1.pdf
+2018-08-31,IMPS-MOB/Fund Trf/824301262609/FINN OVATION DIS/Di,4500.0,4506.32,credit,True,bank statement 1.pdf
+2018-08-31,ATM-NFS/CASH WITHDRAWAL/+BOB/824315 013476,-500.0,4006.32,debit,False,bank statement 1.pdf
+2018-09-01,POS-VISA/KARUN MEDICAL/824405792484,-75.0,3931.32,debit,False,bank statement 1.pdf
+2018-09-01,ATM-NFS/CASH WITHDRAWAL/+DEONAR ST ROAD/8244112849,-500.0,3431.32,debit,False,bank statement 1.pdf
+2018-09-01,POS-VISA/MOBIKWIK/824416007647,-285.0,3146.32,debit,False,bank statement 1.pdf
+2018-09-02,ATM-NFS/CASH WITHDRAWAL/+TATA NAGAR /824511007593,-500.0,2646.32,debit,False,bank statement 1.pdf
+2018-09-03,POS-VISA/MOBIKWIK/824604139262,-285.0,2361.32,debit,False,bank statement 1.pdf
+2018-09-03,NACH/TP ACH Bajaj Finanac/122175597,-1912.0,449.32,debit,False,bank statement 1.pdf
+2018-09-04,POS-VISA/MOBIKWIK/824711501605,-285.0,164.32,debit,False,bank statement 1.pdf
+2018-09-05,APB-INW/HP644950 041318 2708,268.63,432.95,credit,True,bank statement 1.pdf
+2018-09-05,BILLPAY/RECH/VIDEOCON DTH/182486873 315/05092018,-285.0,147.95,debit,False,bank statement 1.pdf
+2018-09-05,BILLPAY/RECHONREV/182486873315/0509 2018,285.0,432.95,debit,True,bank statement 1.pdf
+2018-09-05,BILLPAY/RECH/VIDEOCON DTH/182486873 393/05092018,-285.0,147.95,debit,False,bank statement 1.pdf
+2018-09-07,ATM-NFS/CASH WITHDRAWAL/+GOLD COINA PLOT NO/825014,-100.0,47.95,debit,False,bank statement 1.pdf
+2018-09-12,IMPS-BRC/Fund Trf/825519008950/Omar am Patel/null,1.0,48.95,debit,True,bank statement 1.pdf
+2018-09-12,IMPS-BRC/Fund Trf/825519011169/gopa l gopa/null,1.0,49.95,debit,True,bank statement 1.pdf
+2018-09-12,IMPS-BRC/Fund Trf/825519012774/gopa l gopa/null,200.0,249.95,debit,True,bank statement 1.pdf
+2018-09-12,IMPS-BRC/Fund Trf/825519012772/gopa l gopa/null,5000.0,5249.95,debit,True,bank statement 1.pdf
+2018-09-12,POS-VISA/FINNOVATION TECH SOLUTNEW DELH/8255157419,-5127.89,122.06,debit,False,bank statement 1.pdf
+2019-09-04,LNK COOPERATIVE SW CD 4821 08DEC19 CPT,300.0,873.56,credit,True,bank statement 2.pdf
+2019-09-09,P ADAMCZUK KASA 7420 TFR,50.0,923.56,debit,True,bank statement 2.pdf
+2019-09-11,BARCLAYCARD CD 7420 DEB,-2.5,921.06,debit,False,bank statement 2.pdf
+2019-09-15,WESTERN VILLA CD 7420 DEB,-240.0,681.06,debit,False,bank statement 2.pdf
+2019-09-16,WINELEAF CD 7420 DEB,-26.69,654.37,debit,False,bank statement 2.pdf
+2019-09-17,LNK COOPERATIVE SW CD 7420 06DEC19 CPT,-200.0,454.37,credit,False,bank statement 2.pdf
+2019-09-18,LV LIFE 03592291015W DD,-33.03,421.34,debit,False,bank statement 2.pdf
+2019-09-22,PARK FOOD AND WINE CD 7420 DEB,-30.46,390.88,debit,False,bank statement 2.pdf
+2019-09-22,LNK COOPERATIVE SW CD 7420 05DEC19 CPT,-20.0,370.88,credit,False,bank statement 2.pdf
+2019-09-25,LNK COOPERATIVE SW CD 7420 03DEC19 CPT,-200.0,170.88,credit,False,bank statement 2.pdf
+2019-09-26,UBER *TRIP LJSAM DEB,-17.43,153.45,debit,False,bank statement 2.pdf
+2019-09-29,D ROBERTSON DEB,960.0,1113.45,debit,True,bank statement 2.pdf
+2019-10-03,WINELEAF CD 7420 DEB,-17.0,1096.45,debit,False,bank statement 2.pdf
+2019-10-05,KATE EYR G D LTD KEGD RP4679969826950500 FPI,790.0,1886.45,credit,True,bank statement 2.pdf
+2019-10-08,LNK COOPERATIVE SW CD 7420 01DEC19 CPT,-100.0,1786.45,credit,False,bank statement 2.pdf
+2019-10-12,LNK PO MITCHAM LAN CD 7420 30NOV19 CPT,-10.0,1776.45,credit,False,bank statement 2.pdf
+2019-10-12,MIS BAR MLECZNY CD 7420 DEB,-28.9,1747.55,debit,False,bank statement 2.pdf
+2019-10-16,SPORTSDIRECT 252 CD 7420 DEB,-27.99,1719.56,debit,False,bank statement 2.pdf
+2017-10-02,Electronic Deposit From 36 TREAS 310,7265.0,10752.68,credit,True,bank statement 3.pdf
+2017-10-03,Electronic Deposit From 36 TREAS 310,6400.0,17152.68,credit,True,bank statement 3.pdf
+2017-10-04,Electronic Deposit From CGS ADMINISTATOR,11911.98,29064.66,credit,True,bank statement 3.pdf
+2017-10-11,Electronic Deposit From CGS ADMINISTATOR,4972.84,34037.5,credit,True,bank statement 3.pdf
+2017-10-12,Electronic Deposit From 36 TREAS 310,4510.0,38547.5,credit,True,bank statement 3.pdf
+2017-10-12,Electronic Deposit From CGS ADMINISTATOR,5597.43,44144.93,credit,True,bank statement 3.pdf
+2017-10-16,Electronic Deposit From 36 TREAS 310,2641.08,46786.01,credit,True,bank statement 3.pdf
+2017-10-17,Electronic Deposit From CGS ADMINISTATOR,3036.78,49822.79,credit,True,bank statement 3.pdf
+2017-10-20,Electronic Deposit From 36 TREAS 310,760.0,50582.79,credit,True,bank statement 3.pdf
+2017-10-14,OPENING BALANCE,0.0,2217.29,credit,False,bank statement 4.pdf
+2017-10-15,Alinta Sales Pty Ltd NetBank BPAY 2733 0400032246,-50.0,2167.29,debit,False,bank statement 4.pdf
+2017-10-23,VIRGIN MONEY NetBank BPAY 49551 4724373501635385,-1000.0,1167.29,debit,False,bank statement 4.pdf
+2017-10-23,Transfer to xx6832 NetBank,-70.0,1097.29,debit,False,bank statement 4.pdf
+2017-10-23,Direct Debit 180247 SGIO MOT563142623171021,-56.42,1040.87,debit,False,bank statement 4.pdf
+2017-10-26,Direct Debit 165969 JETTS KINGSWAY 201724473788,-27.9,1012.97,debit,False,bank statement 4.pdf
+2017-11-01,Account Fee,-4.0,1008.97,debit,False,bank statement 4.pdf
+2017-11-01,Direct Credit 421520 JESSICA LAING JL - Internet,40.0,1048.97,credit,True,bank statement 4.pdf
+2017-11-01,Transfer from xx8727 CommBank app,1000.0,2048.97,credit,True,bank statement 4.pdf
+2017-11-01,Direct Debit 000702 HBF - HEALTH 1439123504,-122.25,1926.72,debit,False,bank statement 4.pdf
+2017-11-05,Transfer to other Bank NetBank Oronsay,-700.0,1226.72,debit,False,bank statement 4.pdf
+2017-11-07,TELSTRA CORP LTD NetBank BPAY 23796 2000353972134,-115.0,1111.72,debit,False,bank statement 4.pdf
+2017-11-09,Direct Debit 165969 JETTS KINGSWAY 201725516901,-27.9,1083.82,debit,False,bank statement 4.pdf
+2017-11-21,Direct Debit 180247 SGIO MOT563142623171121,-56.42,1027.4,debit,False,bank statement 4.pdf
+2017-11-22,Direct Debit 068093 SYNERGY RETAIL B 257300733078,-190.7,836.7,debit,False,bank statement 4.pdf
+2017-11-23,Direct Debit 165969 JETTS KINGSWAY 201726554790,-27.9,808.8,debit,False,bank statement 4.pdf
+2017-12-01,Account Fee,-4.0,804.8,debit,False,bank statement 4.pdf
+2017-12-01,Direct Credit 421520 JESSICA LAING JL - Internet,40.0,844.8,credit,True,bank statement 4.pdf
+2017-12-01,Transfer from xx8727 NetBank,1000.0,1844.8,credit,True,bank statement 4.pdf
+2017-12-01,Transfer to xx6832 NetBank,-70.0,1774.8,debit,False,bank statement 4.pdf
+2017-12-01,Direct Debit 000702 HBF - HEALTH 1439123504,-122.25,1652.55,debit,False,bank statement 4.pdf
+2017-12-05,Transfer to other Bank NetBank Oronsay,-700.0,952.55,debit,False,bank statement 4.pdf
+2017-12-06,TAX OFFICE PAYMENTS NetBank BPAY 75556 551004045508468221 ATO tax 2016 to 20,-850.75,101.8,debit,False,bank statement 4.pdf
+2017-12-06,Transfer from xx8727 NetBank,700.0,801.8,credit,True,bank statement 4.pdf
+2017-12-07,TELSTRA CORP LTD NetBank BPAY 23796 2000353972134,-115.0,686.8,debit,False,bank statement 4.pdf
+2017-12-07,Direct Debit 165969 JETTS KINGSWAY 201727539277,-27.9,658.9,debit,False,bank statement 4.pdf
+2017-12-21,Direct Debit 180247 SGIO MOT563142623171221,-56.42,602.48,debit,False,bank statement 4.pdf
+2017-12-21,Direct Debit 165969 JETTS KINGSWAY 201728541361,-27.9,574.58,debit,False,bank statement 4.pdf
+2017-12-27,Direct Credit 106600 CAMERON BROWNING Ool party thanks x,20.0,594.58,credit,True,bank statement 4.pdf
+2018-01-01,Account Fee,-4.0,590.58,debit,False,bank statement 4.pdf
+2018-01-02,Direct Credit 421520 JESSICA LAING JL - Internet,40.0,630.58,credit,True,bank statement 4.pdf
+2018-01-02,Direct Debit 000702 HBF - HEALTH 1439123504,-122.25,508.33,debit,False,bank statement 4.pdf
+2018-01-04,Transfer from xx8727 CommBank app,800.0,1308.33,credit,True,bank statement 4.pdf
+2018-01-04,Transfer to xx6832 CommBank app,-70.0,1238.33,debit,False,bank statement 4.pdf
+2018-01-04,Direct Debit 165969 JETTS KINGSWAY 2018270979,-27.9,1210.43,debit,False,bank statement 4.pdf
+2018-01-05,Transfer to other Bank NetBank Oronsay,-700.0,510.43,debit,False,bank statement 4.pdf
+2018-01-07,TELSTRA CORP LTD NetBank BPAY 23796 2000353972134,-115.0,395.43,debit,False,bank statement 4.pdf
+2018-01-13,CLOSING BALANCE,0.0,395.43,credit,False,bank statement 4.pdf

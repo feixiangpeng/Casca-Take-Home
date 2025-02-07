@@ -1,0 +1,39 @@
+date,description,amount,balance,type,is_credit,source_file
+2017-10-14,OPENING BALANCE,0.0,2217.29,credit,False,bank statement 4.pdf
+2017-10-15,Alinta Sales Pty Ltd NetBank BPAY 2733 0400032246,-50.0,2167.29,debit,False,bank statement 4.pdf
+2017-10-23,VIRGIN MONEY NetBank BPAY 49551 4724373501635385,-1000.0,1167.29,debit,False,bank statement 4.pdf
+2017-10-23,Transfer to xx6832 NetBank,-70.0,1097.29,debit,False,bank statement 4.pdf
+2017-10-23,Direct Debit 180247 SGIO MOT563142623171021,-56.42,1040.87,debit,False,bank statement 4.pdf
+2017-10-26,Direct Debit 165969 JETTS KINGSWAY 201724473788,-27.9,1012.97,debit,False,bank statement 4.pdf
+2017-11-01,Account Fee,-4.0,1008.97,debit,False,bank statement 4.pdf
+2017-11-01,Direct Credit 421520 JESSICA LAING JL - Internet,40.0,1048.97,credit,True,bank statement 4.pdf
+2017-11-01,Transfer from xx8727 CommBank app,1000.0,2048.97,credit,True,bank statement 4.pdf
+2017-11-01,Direct Debit 000702 HBF - HEALTH 1439123504,-122.25,1926.72,debit,False,bank statement 4.pdf
+2017-11-05,Transfer to other Bank NetBank Oronsay,-700.0,1226.72,debit,False,bank statement 4.pdf
+2017-11-07,TELSTRA CORP LTD NetBank BPAY 23796 2000353972134,-115.0,1111.72,debit,False,bank statement 4.pdf
+2017-11-09,Direct Debit 165969 JETTS KINGSWAY 201725516901,-27.9,1083.82,debit,False,bank statement 4.pdf
+2017-11-21,Direct Debit 180247 SGIO MOT563142623171121,-56.42,1027.4,debit,False,bank statement 4.pdf
+2017-11-22,Direct Debit 068093 SYNERGY RETAIL B 257300733078,-190.7,836.7,debit,False,bank statement 4.pdf
+2017-11-23,Direct Debit 165969 JETTS KINGSWAY 201726554790,-27.9,808.8,debit,False,bank statement 4.pdf
+2017-12-01,Account Fee,-4.0,804.8,debit,False,bank statement 4.pdf
+2017-12-01,Direct Credit 421520 JESSICA LAING JL - Internet,40.0,844.8,credit,True,bank statement 4.pdf
+2017-12-01,Transfer from xx8727 NetBank,1000.0,1844.8,credit,True,bank statement 4.pdf
+2017-12-01,Transfer to xx6832 NetBank,-70.0,1774.8,debit,False,bank statement 4.pdf
+2017-12-01,Direct Debit 000702 HBF - HEALTH 1439123504,-122.25,1652.55,debit,False,bank statement 4.pdf
+2017-12-05,Transfer to other Bank NetBank Oronsay,-700.0,952.55,debit,False,bank statement 4.pdf
+2017-12-06,TAX OFFICE PAYMENTS NetBank BPAY 75556 551004045508468221 ATO tax 2016 to 20,-850.75,101.8,debit,False,bank statement 4.pdf
+2017-12-06,Transfer from xx8727 NetBank,700.0,801.8,credit,True,bank statement 4.pdf
+2017-12-07,TELSTRA CORP LTD NetBank BPAY 23796 2000353972134,-115.0,686.8,debit,False,bank statement 4.pdf
+2017-12-07,Direct Debit 165969 JETTS KINGSWAY 201727539277,-27.9,658.9,debit,False,bank statement 4.pdf
+2017-12-21,Direct Debit 180247 SGIO MOT563142623171221,-56.42,602.48,debit,False,bank statement 4.pdf
+2017-12-21,Direct Debit 165969 JETTS KINGSWAY 201728541361,-27.9,574.58,debit,False,bank statement 4.pdf
+2017-12-27,Direct Credit 106600 CAMERON BROWNING Ool party thanks x,20.0,594.58,credit,True,bank statement 4.pdf
+2018-01-01,Account Fee,-4.0,590.58,debit,False,bank statement 4.pdf
+2018-01-02,Direct Credit 421520 JESSICA LAING JL - Internet,40.0,630.58,credit,True,bank statement 4.pdf
+2018-01-02,Direct Debit 000702 HBF - HEALTH 1439123504,-122.25,508.33,debit,False,bank statement 4.pdf
+2018-01-04,Transfer from xx8727 CommBank app,800.0,1308.33,credit,True,bank statement 4.pdf
+2018-01-04,Transfer to xx6832 CommBank app,-70.0,1238.33,debit,False,bank statement 4.pdf
+2018-01-04,Direct Debit 165969 JETTS KINGSWAY 2018270979,-27.9,1210.43,debit,False,bank statement 4.pdf
+2018-01-05,Transfer to other Bank NetBank Oronsay,-700.0,510.43,debit,False,bank statement 4.pdf
+2018-01-07,TELSTRA CORP LTD NetBank BPAY 23796 2000353972134,-115.0,395.43,debit,False,bank statement 4.pdf
+2018-01-13,CLOSING BALANCE,0.0,395.43,credit,False,bank statement 4.pdf

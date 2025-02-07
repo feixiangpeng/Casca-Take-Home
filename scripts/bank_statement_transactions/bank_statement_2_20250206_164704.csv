@@ -1,0 +1,19 @@
+date,description,amount,balance,type,is_credit,source_file
+2019-09-04,LNK COOPERATIVE SW CD 4821 08DEC19 CPT,300.0,873.56,credit,True,bank statement 2.pdf
+2019-09-09,P ADAMCZUK KASA 7420 TFR,50.0,923.56,debit,True,bank statement 2.pdf
+2019-09-11,BARCLAYCARD CD 7420 DEB,-2.5,921.06,debit,False,bank statement 2.pdf
+2019-09-15,WESTERN VILLA CD 7420 DEB,-240.0,681.06,debit,False,bank statement 2.pdf
+2019-09-16,WINELEAF CD 7420 DEB,-26.69,654.37,debit,False,bank statement 2.pdf
+2019-09-17,LNK COOPERATIVE SW CD 7420 06DEC19 CPT,-200.0,454.37,credit,False,bank statement 2.pdf
+2019-09-18,LV LIFE 03592291015W DD,-33.03,421.34,debit,False,bank statement 2.pdf
+2019-09-22,PARK FOOD AND WINE CD 7420 DEB,-30.46,390.88,debit,False,bank statement 2.pdf
+2019-09-22,LNK COOPERATIVE SW CD 7420 05DEC19 CPT,-20.0,370.88,credit,False,bank statement 2.pdf
+2019-09-25,LNK COOPERATIVE SW CD 7420 03DEC19 CPT,-200.0,170.88,credit,False,bank statement 2.pdf
+2019-09-26,UBER *TRIP LJSAM DEB,-17.43,153.45,debit,False,bank statement 2.pdf
+2019-09-29,D ROBERTSON DEB,960.0,1113.45,debit,True,bank statement 2.pdf
+2019-10-03,WINELEAF CD 7420 DEB,-17.0,1096.45,debit,False,bank statement 2.pdf
+2019-10-05,KATE EYR G D LTD KEGD RP4679969826950500 FPI,790.0,1886.45,credit,True,bank statement 2.pdf
+2019-10-08,LNK COOPERATIVE SW CD 7420 01DEC19 CPT,-100.0,1786.45,credit,False,bank statement 2.pdf
+2019-10-12,LNK PO MITCHAM LAN CD 7420 30NOV19 CPT,-10.0,1776.45,credit,False,bank statement 2.pdf
+2019-10-12,MIS BAR MLECZNY CD 7420 DEB,-28.9,1747.55,debit,False,bank statement 2.pdf
+2019-10-16,SPORTSDIRECT 252 CD 7420 DEB,-27.99,1719.56,debit,False,bank statement 2.pdf

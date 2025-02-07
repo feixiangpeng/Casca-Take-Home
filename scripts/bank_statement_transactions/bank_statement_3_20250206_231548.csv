@@ -1,0 +1,10 @@
+date,description,amount,balance,type,is_credit,source_file
+2017-10-02,Electronic Deposit From 36 TREAS 310,7265.0,10752.68,credit,True,bank statement 3.pdf
+2017-10-03,Electronic Deposit From 36 TREAS 310,6400.0,17152.68,credit,True,bank statement 3.pdf
+2017-10-04,Electronic Deposit From CGS ADMINISTATOR,11911.98,29064.66,credit,True,bank statement 3.pdf
+2017-10-11,Electronic Deposit From CGS ADMINISTATOR,4972.84,34037.5,credit,True,bank statement 3.pdf
+2017-10-12,Electronic Deposit From 36 TREAS 310,4510.0,38547.5,credit,True,bank statement 3.pdf
+2017-10-12,Electronic Deposit From CGS ADMINISTATOR,5597.43,44144.93,credit,True,bank statement 3.pdf
+2017-10-16,Electronic Deposit From 36 TREAS 310,2641.08,46786.01,credit,True,bank statement 3.pdf
+2017-10-17,Electronic Deposit From CGS ADMINISTATOR,3036.78,49822.79,credit,True,bank statement 3.pdf
+2017-10-20,Electronic Deposit From 36 TREAS 310,760.0,50582.79,credit,True,bank statement 3.pdf

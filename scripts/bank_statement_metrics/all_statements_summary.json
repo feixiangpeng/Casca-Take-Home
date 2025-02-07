@@ -1,0 +1,58 @@
+{
+    "bank_statement_2": {
+        "total_inflow": 5880.0,
+        "total_outflow": 3241.5999999999995,
+        "net_cash_flow": 2638.4000000000005,
+        "avg_monthly_inflow": 1960.0,
+        "avg_monthly_outflow": 1080.5333333333335,
+        "cash_flow_volatility": 1477.448466249237,
+        "negative_flow_months": 1,
+        "min_balance": 153.45,
+        "max_balance": 3797.53,
+        "num_overdrafts": 0,
+        "dscr": 1.8139190523198416,
+        "loan":1 
+    },
+    "bank_statement_4": {
+        "total_inflow": 3640.0,
+        "total_outflow": 5461.86,
+        "net_cash_flow": -1821.8599999999997,
+        "avg_monthly_inflow": 910.0,
+        "avg_monthly_outflow": 1365.4650000000001,
+        "cash_flow_volatility": 432.3856835338099,
+        "negative_flow_months": 4,
+        "min_balance": 101.8,
+        "max_balance": 2217.29,
+        "num_overdrafts": 0,
+        "dscr": 0.6664396377790716,
+        "loan":0
+    },
+    "bank_statement_1": {
+        "total_inflow": 133946.16,
+        "total_outflow": 190358.46,
+        "net_cash_flow": -56412.29999999999,
+        "avg_monthly_inflow": 11162.179999999998,
+        "avg_monthly_outflow": 15863.205,
+        "cash_flow_volatility": 22898.68473992065,
+        "negative_flow_months": 8,
+        "min_balance": 4.17,
+        "max_balance": 55105.34,
+        "num_overdrafts": 0,
+        "dscr": 0.7036522569052092,
+        "loan":0
+    },
+    "bank_statement_3": {
+        "total_inflow": 74197.31,
+        "total_outflow": 69724.91,
+        "net_cash_flow": 4472.399999999994,
+        "avg_monthly_inflow": 74197.31,
+        "avg_monthly_outflow": 69724.91,
+        "cash_flow_volatility": 0.0,
+        "negative_flow_months": 0,
+        "min_balance": 8062.08,
+        "max_balance": 77784.99,
+        "num_overdrafts": 0,
+        "dscr": 1.0641435033763398,
+        "loan":1
+    }
+}

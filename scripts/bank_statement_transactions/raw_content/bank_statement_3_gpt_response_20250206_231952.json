@@ -1,0 +1,366 @@
+[
+  {
+    "date": "2017-10-02",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 7265.0,
+    "balance": 10752.68,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-03",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 6400.0,
+    "balance": 17152.68,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-04",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 11911.98,
+    "balance": 29064.66,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-11",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 4972.84,
+    "balance": 34037.5,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-12",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 4510.0,
+    "balance": 38547.5,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-12",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 5597.43,
+    "balance": 44144.93,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-16",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 2641.08,
+    "balance": 46786.01,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-17",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 3036.78,
+    "balance": 49822.79,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-20",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 760.0,
+    "balance": 50582.79,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-20",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 11414.48,
+    "balance": 62097.27,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-23",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 3150.0,
+    "balance": 65247.27,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-24",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 305.71,
+    "balance": 65552.98,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-24",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 660.0,
+    "balance": 66212.98,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-25",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 11572.01,
+    "balance": 77784.99,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-27",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 360.0,
+    "balance": 78144.99,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-27",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 5819.54,
+    "balance": 83964.53,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-31",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 7307.26,
+    "balance": 91271.79,
+    "type": "credit"
+  },
+  {
+    "date": "2017-10-02",
+    "description": "Debit Purchase - VISA PANERA BREAD #20",
+    "amount": -7.0,
+    "balance": 91264.79,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-02",
+    "description": "Debit Purchase - VISA",
+    "amount": -7.02,
+    "balance": 91257.77,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-04",
+    "description": "Debit Purchase - VISA CHICK-FIL-A #029",
+    "amount": -51.25,
+    "balance": 91206.52,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-06",
+    "description": "Debit Purchase - VISA MO SEC OF STATE",
+    "amount": -149.0,
+    "balance": 91057.52,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-10",
+    "description": "Debit Purchase - VISA THE PLUMBING PRO",
+    "amount": -372.0,
+    "balance": 90685.52,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-06",
+    "description": "Electronic Withdrawal Customer Withdrawal To BlueKc Com Stlmt",
+    "amount": -195.34,
+    "balance": 90490.18,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-06",
+    "description": "Electronic Withdrawal",
+    "amount": -500.0,
+    "balance": 89990.18,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-12",
+    "description": "Branch Account Transfer To Account 145574108240",
+    "amount": -8000.0,
+    "balance": 81990.18,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-12",
+    "description": "Branch Account Transfer To Account 145570459670",
+    "amount": -12000.0,
+    "balance": 69990.18,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-16",
+    "description": "Electronic Withdrawal Analysis Service Charge From PHILA INS CO",
+    "amount": -5.0,
+    "balance": 69985.18,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-16",
+    "description": "Electronic Withdrawal",
+    "amount": -24.95,
+    "balance": 69960.23,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-25",
+    "description": "Electronic Withdrawal From PHILA INS CO",
+    "amount": -7514.68,
+    "balance": 62445.55,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-25",
+    "description": "Electronic Withdrawal From ATT",
+    "amount": -308.48,
+    "balance": 62137.07,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-25",
+    "description": "Branch Account Transfer To Account 145574108240",
+    "amount": -7700.0,
+    "balance": 54437.07,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-25",
+    "description": "Branch Account Transfer To Account 145570459670",
+    "amount": -10776.0,
+    "balance": 43661.07,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-16",
+    "description": "Check 4667",
+    "amount": -3777.34,
+    "balance": 39883.73,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-11",
+    "description": "Check 4676",
+    "amount": -2500.0,
+    "balance": 37383.73,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-02",
+    "description": "Check 4670",
+    "amount": -1146.08,
+    "balance": 36237.65,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-17",
+    "description": "Check 4677",
+    "amount": -320.0,
+    "balance": 35917.65,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-10",
+    "description": "Check 4671",
+    "amount": -1146.08,
+    "balance": 34771.57,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-06",
+    "description": "Check 4678",
+    "amount": -228.0,
+    "balance": 34543.57,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-02",
+    "description": "Check 4672",
+    "amount": -70.0,
+    "balance": 34473.57,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-11",
+    "description": "Check 4679",
+    "amount": -754.99,
+    "balance": 33718.58,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-11",
+    "description": "Check 4675",
+    "amount": -200.0,
+    "balance": 33518.58,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-16",
+    "description": "Check 4680",
+    "amount": -33.23,
+    "balance": 33485.35,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-27",
+    "description": "Check 4681",
+    "amount": -425.71,
+    "balance": 33059.64,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-16",
+    "description": "Check 4695",
+    "amount": -3341.36,
+    "balance": 29718.28,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-16",
+    "description": "Check 4696",
+    "amount": -118.5,
+    "balance": 29600.78,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-17",
+    "description": "Check 4697",
+    "amount": -78.65,
+    "balance": 29522.13,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-17",
+    "description": "Check 4692",
+    "amount": -726.37,
+    "balance": 28795.76,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-17",
+    "description": "Check 4693",
+    "amount": -110.0,
+    "balance": 28685.76,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-26",
+    "description": "Check 4694",
+    "amount": -100.0,
+    "balance": 28585.76,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-26",
+    "description": "Check 4702",
+    "amount": -1706.25,
+    "balance": 26879.51,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-27",
+    "description": "Check 4705",
+    "amount": -168.0,
+    "balance": 26711.51,
+    "type": "debit"
+  },
+  {
+    "date": "2017-10-31",
+    "description": "Check 4706",
+    "amount": -6000.0,
+    "balance": 20711.51,
+    "type": "debit"
+  }
+]

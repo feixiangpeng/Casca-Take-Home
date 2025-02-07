@@ -1,0 +1,48 @@
+date,description,amount,balance,type
+2017-10-02,Electronic Deposit From 36 TREAS 310,7265.0,10752.68,credit
+2017-10-03,Electronic Deposit From 36 TREAS 310,6400.0,17152.68,credit
+2017-10-04,Electronic Deposit From CGS ADMINISTATOR,11911.98,29064.66,credit
+2017-10-11,Electronic Deposit From CGS ADMINISTATOR,4972.84,34037.5,credit
+2017-10-12,Electronic Deposit From 36 TREAS 310,4510.0,38547.5,credit
+2017-10-12,Electronic Deposit From CGS ADMINISTATOR,5597.43,44144.93,credit
+2017-10-16,Electronic Deposit From 36 TREAS 310,2641.08,46786.01,credit
+2017-10-17,Electronic Deposit From CGS ADMINISTATOR,3036.78,49822.79,credit
+2017-10-20,Electronic Deposit From 36 TREAS 310,760.0,50582.79,credit
+2017-10-20,Electronic Deposit From CGS ADMINISTATOR,11414.48,62097.27,credit
+2017-10-23,Electronic Deposit From 36 TREAS 310,3150.0,65247.27,credit
+2017-10-24,Electronic Deposit From CGS ADMINISTATOR,305.71,65552.98,credit
+2017-10-24,Electronic Deposit From 36 TREAS 310,660.0,66212.98,credit
+2017-10-25,Electronic Deposit From CGS ADMINISTATOR,11572.01,77784.99,credit
+2017-10-02,Debit Purchase - VISA PANERA BREAD #20,-7.0,77777.99,debit
+2017-10-02,Debit Purchase - VISA,-7.02,77770.97,debit
+2017-10-04,Debit Purchase - VISA CHICK-FIL-A #029,-51.25,77719.72,debit
+2017-10-06,Debit Purchase - VISA MO SEC OF STATE,-149.0,77570.72,debit
+2017-10-10,Debit Purchase - VISA THE PLUMBING PRO,-372.0,77198.72,debit
+2017-10-06,Electronic Withdrawal Customer Withdrawal To BlueKc Com Stlmt,-195.34,77003.38,debit
+2017-10-06,Electronic Withdrawal,-500.0,76503.38,debit
+2017-10-12,Branch Account Transfer To Account 145574108240,-8000.0,68503.38,debit
+2017-10-12,Branch Account Transfer To Account 145570459670,-12000.0,56503.38,debit
+2017-10-16,Electronic Withdrawal Analysis Service Charge From PHILA INS CO,-5.0,56498.38,debit
+2017-10-16,Electronic Withdrawal,-24.95,56473.43,debit
+2017-10-25,Electronic Withdrawal From PHILA INS CO,-7514.68,48958.75,debit
+2017-10-25,Electronic Withdrawal From ATT,-308.48,48650.27,debit
+2017-10-25,Branch Account Transfer To Account 145574108240,-7700.0,40950.27,debit
+2017-10-25,Branch Account Transfer To Account 145570459670,-10776.0,30174.27,debit
+2017-10-16,Check 4667,-3777.34,26396.93,debit
+2017-10-11,Check 4676,-2500.0,23896.93,debit
+2017-10-02,Check 4670,-1146.08,22750.85,debit
+2017-10-17,Check 4677,-320.0,22430.85,debit
+2017-10-10,Check 4671,-1146.08,21284.77,debit
+2017-10-06,Check 4678,-228.0,21056.77,debit
+2017-10-02,Check 4672,-70.0,20986.77,debit
+2017-10-11,Check 4679,-754.99,20231.78,debit
+2017-10-11,Check 4675,-200.0,20031.78,debit
+2017-10-16,Check 4680,-33.23,19998.55,debit
+2017-10-27,Check 4681,-425.71,19572.84,debit
+2017-10-16,Check 4695,-3341.36,16231.48,debit
+2017-10-16,Check 4696,-118.5,16112.98,debit
+2017-10-17,Check 4697,-78.65,16034.33,debit
+2017-10-26,Check 4694,-100.0,15934.33,debit
+2017-10-26,Check 4702,-1706.25,14228.08,debit
+2017-10-27,Check 4705,-168.0,14060.08,debit
+2017-10-31,Check 4706,-6000.0,8060.08,debit

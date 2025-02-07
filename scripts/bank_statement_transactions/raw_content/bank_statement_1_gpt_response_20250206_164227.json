@@ -1,0 +1,1388 @@
+[
+  {
+    "date": "2018-04-01",
+    "description": "IMPS-MOB/Fund Trf/809119519742/Oma Ram/BENE - VER",
+    "amount": 1.0,
+    "balance": 22.62,
+    "type": "credit"
+  },
+  {
+    "date": "2018-04-01",
+    "description": "IMPS-MOB/Fund Trf/809119553510/Oma Ram/2000",
+    "amount": 2000.0,
+    "balance": 2022.62,
+    "type": "credit"
+  },
+  {
+    "date": "2018-04-03",
+    "description": "NACH/TP ACH Bajaj Finanac/88551679",
+    "amount": -1912.0,
+    "balance": 110.62,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-04",
+    "description": "APB-INW/HP644950 000009 3003",
+    "amount": -170.2,
+    "balance": 280.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-04",
+    "description": "POS-VISA/KARUN MEDICAL/809414290216",
+    "amount": -75.0,
+    "balance": 205.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-05",
+    "description": "IMPS-MOB/Fund Trf/809521437177/NITI N POOJARI/null",
+    "amount": 3200.0,
+    "balance": 3405.82,
+    "type": "credit"
+  },
+  {
+    "date": "2018-04-10",
+    "description": "BILLPAY/RECH/VODAFONE PRE/181000095 662/10042018",
+    "amount": -509.0,
+    "balance": 2896.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-10",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+DONGRI OAT M/810020011497",
+    "amount": -2000.0,
+    "balance": 896.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-14",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/810418",
+    "amount": -500.0,
+    "balance": 396.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-20",
+    "description": "IMPS-RIB/Fund Trf/811010759849/Pay Rs300",
+    "amount": -300.0,
+    "balance": 96.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-20",
+    "description": "IMPS-RIB/FT-REV/811010759849/Pay Rs 300",
+    "amount": 300.0,
+    "balance": 396.82,
+    "type": "credit"
+  },
+  {
+    "date": "2018-04-20",
+    "description": "POS-VISA/MANSI MEDICAL/811013502615",
+    "amount": -75.0,
+    "balance": 321.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-22",
+    "description": "IMPS-MOB/Fund Trf/811212400262/Chan drakant Yuv/BE",
+    "amount": -1.0,
+    "balance": 322.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-22",
+    "description": "IMPS-MOB/Fund Trf/811212428216/Chan drakant Yuv/ch",
+    "amount": 4999.0,
+    "balance": 5321.82,
+    "type": "credit"
+  },
+  {
+    "date": "2018-04-22",
+    "description": "IMPS-RIB/Fund Trf/811212820665/Pay salary",
+    "amount": -1000.0,
+    "balance": 4321.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-22",
+    "description": "IMPS-RIB/Fund Trf/811213820961/Pay for salary",
+    "amount": -500.0,
+    "balance": 3821.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-23",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/811309",
+    "amount": -1000.0,
+    "balance": 2821.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-23",
+    "description": "IMPS-RIB/Fund Trf/811320861437/Pay salaryRs2500",
+    "amount": -2500.0,
+    "balance": 321.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-04-23",
+    "description": "IMPS-RIB/Fund Trf/811321862644/Pay 300",
+    "amount": 300.0,
+    "balance": 21.82,
+    "type": "credit"
+  },
+  {
+    "date": "2018-05-03",
+    "description": "IMPS-INET/Fund Trf/812321002185/Cha ndrakant Yuv/I",
+    "amount": 2000.0,
+    "balance": 2021.82,
+    "type": "credit"
+  },
+  {
+    "date": "2018-05-05",
+    "description": "NACH/TP ACH Bajaj Finanac/97127969",
+    "amount": -1912.0,
+    "balance": 109.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-09",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+WHITE HOUS E/812912009989",
+    "amount": -100.0,
+    "balance": 9.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-09",
+    "description": "IMPS-MOB/Fund Trf/812917902484/SACH IN PANDURAN/Fr",
+    "amount": -200.0,
+    "balance": 209.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-11",
+    "description": "IMPS-RIB/Fund Trf/813114420579/Pay salary",
+    "amount": -200.0,
+    "balance": 9.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-11",
+    "description": "IMPS-RIB/FT-REV/813114420579/Pay sa lary",
+    "amount": -200.0,
+    "balance": 209.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-11",
+    "description": "IMPS-RIB/Fund Trf/813117426391/Pay for arjant",
+    "amount": -200.0,
+    "balance": 9.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-11",
+    "description": "IMPS-RIB/FT-REV/813117426391/Pay fo r arjant",
+    "amount": -200.0,
+    "balance": 209.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-12",
+    "description": "BILLPAY/RECH/IDEA PREPAID/181320083 270/12052018",
+    "amount": -27.0,
+    "balance": 182.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-16",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+Sandhurst Road/8136190082",
+    "amount": -100.0,
+    "balance": 82.82,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-17",
+    "description": "APB-INW/HP644950 012055 1405",
+    "amount": 134.06,
+    "balance": 216.88,
+    "type": "credit"
+  },
+  {
+    "date": "2018-05-17",
+    "description": "IMPS-MOB/Fund Trf/813700005886/RID- 24 SP/9090",
+    "amount": 6000.0,
+    "balance": 6216.88,
+    "type": "credit"
+  },
+  {
+    "date": "2018-05-18",
+    "description": "IMPS-MOB/Fund Trf/813800005916/RID- 24 SP/0098",
+    "amount": 1200.0,
+    "balance": 7416.88,
+    "type": "credit"
+  },
+  {
+    "date": "2018-05-18",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+WADIBUNDER /813810005906",
+    "amount": -500.0,
+    "balance": 6916.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-20",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/814016",
+    "amount": -500.0,
+    "balance": 6416.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-20",
+    "description": "POS-VISA/KARUN MEDICAL/814016444557",
+    "amount": -75.0,
+    "balance": 6341.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-21",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/814110",
+    "amount": -1000.0,
+    "balance": 5341.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-21",
+    "description": "POS-VISA/FLIPKART PAYMENTS/81410945 1953",
+    "amount": -569.0,
+    "balance": 4772.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-21",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+GOVANDI EA ST BR/814117029",
+    "amount": -3000.0,
+    "balance": 1772.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-21",
+    "description": "POS-VISA/HOTEL SAROJ/814118881722",
+    "amount": -300.0,
+    "balance": 1472.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-23",
+    "description": "BILLPAY/RECH/VODAFONE PRE/181430064 620/23052018",
+    "amount": -100.0,
+    "balance": 1372.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-05-23",
+    "description": "BILLPAY/RECH/TATASKY DTH/1814300658 42/23052018",
+    "amount": -1000.0,
+    "balance": 372.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-06-01",
+    "description": "POS-VISA/Upper Crust Foods Pvt THAN E/815214619098",
+    "amount": -261.0,
+    "balance": 111.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-06-01",
+    "description": "IMPS-MOB/Fund Trf/815200006812/RID- 24 SP/Payment",
+    "amount": 2000.0,
+    "balance": 2111.88,
+    "type": "credit"
+  },
+  {
+    "date": "2018-06-02",
+    "description": "NACH/TP ACH Bajaj Finanac/101294174",
+    "amount": -1912.0,
+    "balance": 199.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-06-06",
+    "description": "Charge:Cash Wdl at other ATM/Inv270 5181513668571/2",
+    "amount": -20.0,
+    "balance": 179.88,
+    "type": "debit"
+  },
+  {
+    "date": "2018-06-06",
+    "description": "CGST on Charge:Cash Wdl at other AT M/Inv2705181513",
+    "amount": -1.8,
+    "balance": 178.08,
+    "type": "debit"
+  },
+  {
+    "date": "2018-06-06",
+    "description": "SGST on Charge:Cash Wdl at other AT M/Inv2705181513",
+    "amount": -1.8,
+    "balance": 176.28,
+    "type": "debit"
+  },
+  {
+    "date": "2018-06-19",
+    "description": "APB-INW/HP644950 018603 1106",
+    "amount": 180.19,
+    "balance": 356.47,
+    "type": "credit"
+  },
+  {
+    "date": "2018-06-30",
+    "description": "CREDIT INTEREST CRED",
+    "amount": 9.0,
+    "balance": 365.47,
+    "type": "credit"
+  },
+  {
+    "date": "2018-07-01",
+    "description": "IMPS-MOB/Fund Trf/818200008670/RID- 24 SP/Pay for",
+    "amount": 2000.0,
+    "balance": 2365.47,
+    "type": "credit"
+  },
+  {
+    "date": "2018-07-02",
+    "description": "NACH/TP ACH Bajaj Finanac/108265552",
+    "amount": -1912.0,
+    "balance": 453.47,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-03",
+    "description": "POS-VISA/KARUN MEDICAL/818406584956",
+    "amount": -75.0,
+    "balance": 378.47,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-05",
+    "description": "IMPS-MOB/Fund Trf/818600008933/RID- 24 SP/Pay forl",
+    "amount": 6000.0,
+    "balance": 6378.47,
+    "type": "credit"
+  },
+  {
+    "date": "2018-07-05",
+    "description": "BILLPAY/QUICK/Tata Power /181862237 092/05072018",
+    "amount": -4708.0,
+    "balance": 1670.47,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-06",
+    "description": "POS-VISA/Chembur Trombay EducatMUMB AI/818716574514",
+    "amount": -473.56,
+    "balance": 1196.91,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-07",
+    "description": "BILLPAY/RECH/VIDEOCON DTH/181882351 400/07072018",
+    "amount": -285.0,
+    "balance": 911.91,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-07",
+    "description": "BILLPAY/RECH/AIRTEL PREPA/181882382 248/07072018",
+    "amount": -199.0,
+    "balance": 712.91,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-08",
+    "description": "BILLPAY/RECH/IDEA PREPAID/181892448 103/08072018",
+    "amount": -398.0,
+    "balance": 314.91,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-13",
+    "description": "POS-VISA/MANSI MEDICAL/819413057303",
+    "amount": -75.0,
+    "balance": 239.91,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-13",
+    "description": "POS-VISA/MANSI MEDICAL/819413154044",
+    "amount": -229.0,
+    "balance": 10.91,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-21",
+    "description": "APB-INW/HP644950 027334 1307",
+    "amount": 234.41,
+    "balance": 245.32,
+    "type": "credit"
+  },
+  {
+    "date": "2018-07-24",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/820500",
+    "amount": -100.0,
+    "balance": 145.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-07-24",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/820500",
+    "amount": -100.0,
+    "balance": 45.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-08-02",
+    "description": "IMPS-MOB/Fund Trf/821400010710/BAYY AN MA/Ok",
+    "amount": 2000.0,
+    "balance": 2045.32,
+    "type": "credit"
+  },
+  {
+    "date": "2018-08-06",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+GRANT ROAD BR/82181001789",
+    "amount": -500.0,
+    "balance": 1545.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-08-07",
+    "description": "IMPS-INET/Fund Trf/821922266679/Cha n/Neft_transac",
+    "amount": 1000.0,
+    "balance": 2545.32,
+    "type": "credit"
+  },
+  {
+    "date": "2018-08-08",
+    "description": "POS-VISA/MOBIKWK/822005940645",
+    "amount": -2362.0,
+    "balance": 183.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-08-13",
+    "description": "ATM-NFS/CASH WITHDRAWAL/NEAR HINDUJ A COLLEGE/82251",
+    "amount": -100.0,
+    "balance": 83.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-08-15",
+    "description": "POS-VISA/KARUN MEDICAL/822706734149",
+    "amount": -75.0,
+    "balance": 8.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-08-17",
+    "description": "IMPS-RIB/Fund Trf/823000040666/Pay for argant",
+    "amount": -3.0,
+    "balance": 5.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-08-31",
+    "description": "IMPS-MOB/Fund Trf/824301262361/FINN OVATION DIS/Ac",
+    "amount": -1.0,
+    "balance": 6.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-08-31",
+    "description": "IMPS-MOB/Fund Trf/824301262609/FINN OVATION DIS/Di",
+    "amount": 4500.0,
+    "balance": 4506.32,
+    "type": "credit"
+  },
+  {
+    "date": "2018-08-31",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+BOB/824315 013476",
+    "amount": -500.0,
+    "balance": 4006.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-01",
+    "description": "POS-VISA/KARUN MEDICAL/824405792484",
+    "amount": -75.0,
+    "balance": 3931.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-01",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+DEONAR ST ROAD/8244112849",
+    "amount": -500.0,
+    "balance": 3431.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-01",
+    "description": "POS-VISA/MOBIKWIK/824416007647",
+    "amount": -285.0,
+    "balance": 3146.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-02",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+TATA NAGAR /824511007593",
+    "amount": -500.0,
+    "balance": 2646.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-03",
+    "description": "POS-VISA/MOBIKWIK/824604139262",
+    "amount": -285.0,
+    "balance": 2361.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-03",
+    "description": "NACH/TP ACH Bajaj Finanac/122175597",
+    "amount": -1912.0,
+    "balance": 449.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-04",
+    "description": "POS-VISA/MOBIKWIK/824711501605",
+    "amount": -285.0,
+    "balance": 164.32,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-05",
+    "description": "APB-INW/HP644950 041318 2708",
+    "amount": 268.63,
+    "balance": 432.95,
+    "type": "credit"
+  },
+  {
+    "date": "2018-09-05",
+    "description": "BILLPAY/RECH/VIDEOCON DTH/182486873 315/05092018",
+    "amount": -285.0,
+    "balance": 147.95,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-05",
+    "description": "BILLPAY/RECHONREV/182486873315/0509 2018",
+    "amount": -285.0,
+    "balance": 432.95,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-05",
+    "description": "BILLPAY/RECH/VIDEOCON DTH/182486873 393/05092018",
+    "amount": -285.0,
+    "balance": 147.95,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-07",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+GOLD COINA PLOT NO/825014",
+    "amount": -100.0,
+    "balance": 47.95,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-12",
+    "description": "IMPS-BRC/Fund Trf/825519008950/Omar am Patel/null",
+    "amount": -1.0,
+    "balance": 48.95,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-12",
+    "description": "IMPS-BRC/Fund Trf/825519011169/gopa l gopa/null",
+    "amount": -1.0,
+    "balance": 49.95,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-12",
+    "description": "IMPS-BRC/Fund Trf/825519012774/gopa l gopa/null",
+    "amount": -200.0,
+    "balance": 249.95,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-12",
+    "description": "IMPS-BRC/Fund Trf/825519012772/gopa l gopa/null",
+    "amount": -5000.0,
+    "balance": 5249.95,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-12",
+    "description": "POS-VISA/FINNOVATION TECH SOLUTNEW DELH/8255157419",
+    "amount": -5127.89,
+    "balance": 122.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-13",
+    "description": "IMPS-MOB/Fund Trf/825611324195/FINN OVATION DIS/Di",
+    "amount": -4493.0,
+    "balance": 40.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-13",
+    "description": "IMPS-RIB/Fund Trf/825612996791/Emer gency pay",
+    "amount": -4500.0,
+    "balance": 115.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-13",
+    "description": "POS-VISA/MANSI MEDICAL/825610104558",
+    "amount": -75.0,
+    "balance": 40.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-18",
+    "description": "IMPS-MOB/Fund Trf/826100014272/RID- 24 SP/Parson",
+    "amount": 9000.0,
+    "balance": 9040.06,
+    "type": "credit"
+  },
+  {
+    "date": "2018-09-18",
+    "description": "BILLPAY/REGBIL/Reliance Ene/1826177 27909/18092018",
+    "amount": -8320.0,
+    "balance": 720.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-18",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/826113",
+    "amount": -500.0,
+    "balance": 220.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-25",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+LAMINGTON ROAD OPERA MUMB",
+    "amount": -200.0,
+    "balance": 20.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-30",
+    "description": "IMPS-MOB/Fund Trf/827315528457/FINN OVATION DIS/Di",
+    "amount": -7198.0,
+    "balance": 7218.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-09-30",
+    "description": "QUATERLY SAVINGS INTEREST CREDIT",
+    "amount": 5.0,
+    "balance": 7223.06,
+    "type": "credit"
+  },
+  {
+    "date": "2018-10-01",
+    "description": "ATM-NFS/CASH WITHDRAWAL/SHINDE BLDG BAZAR PETHWATE",
+    "amount": -2000.0,
+    "balance": 5223.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-02",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/827512",
+    "amount": -1000.0,
+    "balance": 4223.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-02",
+    "description": "POS-VISA/THE BOMBAY SEEDS SUPPLMUMB AI/827509018014",
+    "amount": -830.0,
+    "balance": 3393.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-02",
+    "description": "ATM-NFS/CASH WITHDRAWAL/INDUSIND BA NK LIMITED MUMB",
+    "amount": -500.0,
+    "balance": 2893.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-03",
+    "description": "NACH/TP ACH Bajaj Finanac/129461980",
+    "amount": -1584.0,
+    "balance": 1309.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-03",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/827612",
+    "amount": -500.0,
+    "balance": 809.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-03",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+NR DEONAR COLONY/82761900",
+    "amount": -500.0,
+    "balance": 309.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-04",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+LALU BHAI COMP/8277230315",
+    "amount": -200.0,
+    "balance": 109.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-05",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+LALU BHAI COMP/8278150286",
+    "amount": -100.0,
+    "balance": 9.06,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-10",
+    "description": "APB-INW/HP644950 053723 0610",
+    "amount": 350.89,
+    "balance": 359.95,
+    "type": "credit"
+  },
+  {
+    "date": "2018-10-15",
+    "description": "IMPS-BRC/Fund Trf/828820034548/gopa l gopa/null",
+    "amount": 3000.0,
+    "balance": 3359.95,
+    "type": "credit"
+  },
+  {
+    "date": "2018-10-15",
+    "description": "IMPS-BRC/Fund Trf/828820034546/gopa l gopa/null",
+    "amount": 5000.0,
+    "balance": 8359.95,
+    "type": "credit"
+  },
+  {
+    "date": "2018-10-15",
+    "description": "POS-VISA/FINNOVATION TECH SOLUTNEW DELH/8288155904",
+    "amount": -8204.21,
+    "balance": 155.74,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-16",
+    "description": "IMPS-INET/Fund Trf/828912114643/RAT NAMALA BHON/U",
+    "amount": 5500.0,
+    "balance": 6655.74,
+    "type": "credit"
+  },
+  {
+    "date": "2018-10-17",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+DOCKYARD M AZGAON/82901710",
+    "amount": -2000.0,
+    "balance": 3655.74,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-20",
+    "description": "Charge:Cash Wdl at other ATM/Inv271 0181905826841/0",
+    "amount": -20.0,
+    "balance": 3635.74,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-20",
+    "description": "CGST on Charge:Cash Wdl at other AT M/Inv2710181905",
+    "amount": -1.8,
+    "balance": 3633.94,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-20",
+    "description": "SGST on Charge:Cash Wdl at other AT M/Inv2710181905",
+    "amount": -1.8,
+    "balance": 3632.14,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-20",
+    "description": "POS-VISA/SHREENATHJI CAKE/829307945 045",
+    "amount": -750.0,
+    "balance": 2882.14,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-20",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+BSEL TECH PARKVASHI/82931",
+    "amount": -2800.0,
+    "balance": 82.14,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-20",
+    "description": "Charge:Cash Wdl at other ATM/Inv271 0181907118731/0",
+    "amount": -20.0,
+    "balance": 62.14,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-20",
+    "description": "CGST on Charge:Cash Wdl at other AT M/Inv2710181907",
+    "amount": -1.8,
+    "balance": 60.34,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-20",
+    "description": "SGST on Charge:Cash Wdl at other AT M/Inv2710181907",
+    "amount": -1.8,
+    "balance": 58.54,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-24",
+    "description": "Charge:Cash Wdl at other ATM/Inv271 0181933121001/1",
+    "amount": -20.0,
+    "balance": 38.54,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-24",
+    "description": "CGST on Charge:Cash Wdl at other AT M/Inv2710181933",
+    "amount": -1.8,
+    "balance": 36.74,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-24",
+    "description": "SGST on Charge:Cash Wdl at other AT M/Inv2710181933",
+    "amount": -1.8,
+    "balance": 34.94,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-24",
+    "description": "Charge:Cash Wdl at other ATM/Inv271 0181936795421/2",
+    "amount": -20.0,
+    "balance": 14.94,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-24",
+    "description": "CGST on Charge:Cash Wdl at other AT M/Inv2710181936",
+    "amount": -1.8,
+    "balance": 13.14,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-24",
+    "description": "SGST on Charge:Cash Wdl at other AT M/Inv2710181936",
+    "amount": -1.8,
+    "balance": 11.34,
+    "type": "debit"
+  },
+  {
+    "date": "2018-10-30",
+    "description": "NEFT/CMS944723497/JANALAKSHMI FINA/ ICIC0000104",
+    "amount": 47896.0,
+    "balance": 47907.34,
+    "type": "credit"
+  },
+  {
+    "date": "2018-10-30",
+    "description": "IMPS-MOB/Fund Trf/830400310349/FINN OVATION DIS/Di",
+    "amount": 7198.0,
+    "balance": 55105.34,
+    "type": "credit"
+  },
+  {
+    "date": "2018-11-01",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/830521",
+    "amount": -7000.0,
+    "balance": 48105.34,
+    "type": "debit"
+  },
+  {
+    "date": "2018-11-01",
+    "description": "BILLPAY/RECH/IDEA PREPAID/183050619 181/01112018",
+    "amount": -179.0,
+    "balance": 47926.34,
+    "type": "debit"
+  },
+  {
+    "date": "2018-11-02",
+    "description": "CHQ Paid/000001/NANGARE/KURLA NAGAR IK SAHAKARI BAN 000001",
+    "amount": -47800.0,
+    "balance": 126.34,
+    "type": "debit"
+  },
+  {
+    "date": "2018-11-04",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+OPERA HOUS E/830813253300",
+    "amount": -100.0,
+    "balance": 26.34,
+    "type": "debit"
+  },
+  {
+    "date": "2018-11-07",
+    "description": "APB-INW/HP644950 062482 0511",
+    "amount": 408.9,
+    "balance": 435.24,
+    "type": "credit"
+  },
+  {
+    "date": "2018-11-14",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+UBI OPERA HOUSE/831816008",
+    "amount": -400.0,
+    "balance": 35.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-07",
+    "description": "BILLPAY/RECH/AIRTEL PREPA/183413123 388/07122018",
+    "amount": -10.0,
+    "balance": 25.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-10",
+    "description": "UPI/MOB/834417609963/Pest Control",
+    "amount": -1000.0,
+    "balance": 1025.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-10",
+    "description": "UPI/MOB/834417611491/Pest Control P yment",
+    "amount": -3180.0,
+    "balance": 4205.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-11",
+    "description": "Charge:Annual Debit Card/Inv2711181 990690691/01-NO",
+    "amount": -100.0,
+    "balance": 4105.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-11",
+    "description": "CGST on Charge:Annual Debit Card/In v27111819906906",
+    "amount": -9.0,
+    "balance": 4096.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-11",
+    "description": "SGST on Charge:Annual Debit Card/In v27111819906906",
+    "amount": -9.0,
+    "balance": 4087.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-11",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+BOB/834518 004421",
+    "amount": -1000.0,
+    "balance": 3087.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-12",
+    "description": "IMPS-RIB/Fund Trf/834618717058/Pay for the urgent",
+    "amount": -2000.0,
+    "balance": 1087.24,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-15",
+    "description": "APB-INW/HP644950 073902 1212",
+    "amount": 281.93,
+    "balance": 1369.17,
+    "type": "credit"
+  },
+  {
+    "date": "2018-12-15",
+    "description": "IMPS-RIB/Fund Trf/834922868011/Pay for urgent",
+    "amount": -1000.0,
+    "balance": 369.17,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-17",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+DONGRI OAT M/835118002573",
+    "amount": -200.0,
+    "balance": 169.17,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-23",
+    "description": "IMPS-MOB/Fund Trf/835700023503/RID- 24 SP/Self",
+    "amount": -250.0,
+    "balance": 420.17,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-24",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+NR DEONAR COLONY/83571202",
+    "amount": -400.0,
+    "balance": 20.17,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-24",
+    "description": "ATM-NFS/CASH WITHDRAWAL/INDUSIND BA NK LIMITED MUMB",
+    "amount": -3000.0,
+    "balance": 1004.17,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-25",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/835917",
+    "amount": -1000.0,
+    "balance": 4.17,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-30",
+    "description": "POS-VISA/MANSI MEDICARE/836413978489",
+    "amount": -80.0,
+    "balance": 74.57,
+    "type": "debit"
+  },
+  {
+    "date": "2018-12-31",
+    "description": "QUATERLY SAVINGS INTEREST CREDIT",
+    "amount": 24.0,
+    "balance": 98.57,
+    "type": "credit"
+  },
+  {
+    "date": "2019-01-01",
+    "description": "Charge:Cash Wdl at other ATM/Inv271 2181250028541/2",
+    "amount": -20.0,
+    "balance": 78.57,
+    "type": "debit"
+  },
+  {
+    "date": "2019-01-01",
+    "description": "CGST on Charge:Cash Wdl at other AT M/Inv2712181250",
+    "amount": -1.8,
+    "balance": 76.77,
+    "type": "debit"
+  },
+  {
+    "date": "2019-01-01",
+    "description": "SGST on Charge:Cash Wdl at other AT M/Inv2712181250",
+    "amount": -1.8,
+    "balance": 74.97,
+    "type": "debit"
+  },
+  {
+    "date": "2019-01-10",
+    "description": "IMPS-BRC/Fund Trf/901020026064/Rahu l /IMPS Txn",
+    "amount": 2200.0,
+    "balance": 2274.97,
+    "type": "credit"
+  },
+  {
+    "date": "2019-01-11",
+    "description": "IMPS-RIB/Fund Trf/901115217247/Pay for finance",
+    "amount": -2000.0,
+    "balance": 274.97,
+    "type": "debit"
+  },
+  {
+    "date": "2019-01-16",
+    "description": "POS-VISA/MANSI MEDICARE/901615494119",
+    "amount": -75.0,
+    "balance": 199.97,
+    "type": "debit"
+  },
+  {
+    "date": "2019-01-19",
+    "description": "POS-VISA/KARUN MEDICAL/901912248047",
+    "amount": -80.0,
+    "balance": 119.97,
+    "type": "debit"
+  },
+  {
+    "date": "2019-01-24",
+    "description": "POS-VISA/MANSI MEDICARE/902417531476",
+    "amount": -80.0,
+    "balance": 39.97,
+    "type": "debit"
+  },
+  {
+    "date": "2019-01-30",
+    "description": "UPI/MOB/903010763900/Salary",
+    "amount": 3410.0,
+    "balance": 3449.97,
+    "type": "credit"
+  },
+  {
+    "date": "2019-01-30",
+    "description": "POS-VISA/PHONEPE RECHARGE/903008195 064",
+    "amount": -349.0,
+    "balance": 3100.97,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-01",
+    "description": "APB-INW/HP644950 088903 3001",
+    "amount": 167.34,
+    "balance": 3268.31,
+    "type": "credit"
+  },
+  {
+    "date": "2019-02-01",
+    "description": "IMPS-RIB/Fund Trf/903302261711/Paym entforsavings",
+    "amount": -500.0,
+    "balance": 2768.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-02",
+    "description": "POS-VISA/PRAKASH LUNCH HOME/9033174 51442",
+    "amount": -288.0,
+    "balance": 2480.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-03",
+    "description": "IMPS-RIB/Fund Trf/903415349596/Paym entforsalary",
+    "amount": -2200.0,
+    "balance": 280.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-03",
+    "description": "IMPS-RIB/FT-REV/903415349596/Paymen tforsalary",
+    "amount": 2200.0,
+    "balance": 2480.31,
+    "type": "credit"
+  },
+  {
+    "date": "2019-02-04",
+    "description": "IMPS-RIB/Fund Trf/903514406556/Paym entforsalary",
+    "amount": -2200.0,
+    "balance": 280.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-12",
+    "description": "IMPS-INET/Fund Trf/904320023197/Ami tAnilBansode/EKO",
+    "amount": -2200.0,
+    "balance": 2480.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-13",
+    "description": "POS-VISA/MANSI MEDICARE/904417742636",
+    "amount": -120.0,
+    "balance": 2360.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-14",
+    "description": "ATM-NFS/CASH WITHDRAWAL/HOTEL NEETA /904501003547",
+    "amount": -200.0,
+    "balance": 2160.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-14",
+    "description": "ATM-NFS/CASH WITHDRAWAL/HOTEL NEETA /904502003548",
+    "amount": -2000.0,
+    "balance": 160.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-17",
+    "description": "UPI/MOB/904900396843/Pay for medical",
+    "amount": -24.0,
+    "balance": 136.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-18",
+    "description": "UPI/MOB/904912046883/Payment for ma dicin",
+    "amount": -80.0,
+    "balance": 56.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-02-27",
+    "description": "IMPS-MOB/Fund Trf/905800031399/RID2 4SP/Payforchandrakant",
+    "amount": 3000.0,
+    "balance": 3056.31,
+    "type": "credit"
+  },
+  {
+    "date": "2019-02-27",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HUGHESROAD /905813031795",
+    "amount": -3000.0,
+    "balance": 56.31,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-02",
+    "description": "APB-INW/HP644950 098236 2702",
+    "amount": 138.81,
+    "balance": 195.12,
+    "type": "credit"
+  },
+  {
+    "date": "2019-03-03",
+    "description": "UPI/MOB/906276052721/Payment made t o Merchant",
+    "amount": -80.0,
+    "balance": 115.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-05",
+    "description": "UPI/MOB/906457345895/Payment from P honePe",
+    "amount": 1800.0,
+    "balance": 1915.12,
+    "type": "credit"
+  },
+  {
+    "date": "2019-03-06",
+    "description": "UPI/MOB/906540003838/Payment for sa lary",
+    "amount": -1000.0,
+    "balance": 915.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-08",
+    "description": "UPI/MOB/906764615249/Rajesh basavra j godal",
+    "amount": 3900.0,
+    "balance": 4815.12,
+    "type": "credit"
+  },
+  {
+    "date": "2019-03-08",
+    "description": "UPI/MOB/906784098868/Payment made t o Merchant",
+    "amount": -90.0,
+    "balance": 4725.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-09",
+    "description": "UPI/MOB/906860406308/Payment from P honePe",
+    "amount": 50.0,
+    "balance": 4675.12,
+    "type": "credit"
+  },
+  {
+    "date": "2019-03-10",
+    "description": "UPI/MOB/906945474387/Payment made t o Merchant",
+    "amount": -80.0,
+    "balance": 4595.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-10",
+    "description": "Payment for material",
+    "amount": -600.0,
+    "balance": 3995.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-11",
+    "description": "UPI/MOB/907030799340/Payment from P honePe",
+    "amount": 80.0,
+    "balance": 3915.12,
+    "type": "credit"
+  },
+  {
+    "date": "2019-03-11",
+    "description": "UPI/MOB/907019957680/Verified Merch ant",
+    "amount": -79.0,
+    "balance": 3836.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-11",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+NR DEONAR COLONY/90701900",
+    "amount": -2000.0,
+    "balance": 1836.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-11",
+    "description": "POS-VISA/SHRIKANT LINGAM DASPELMUMB AI/907015440275",
+    "amount": -650.0,
+    "balance": 1186.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-11",
+    "description": "POS-VISA/Clues Network Private Gurg aon /9071055942",
+    "amount": -450.0,
+    "balance": 736.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-12",
+    "description": "NEFT/FINOH19071010428/M/S EKO INDIA FINANCIAL SERVICES PR/FINO0000001",
+    "amount": -2000.0,
+    "balance": 2736.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-13",
+    "description": "UPI/MOB/907211920152/Payment made t o Merchant",
+    "amount": -80.0,
+    "balance": 2656.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-13",
+    "description": "POS-VISA/COST TO COST/907212362533",
+    "amount": -460.0,
+    "balance": 2196.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-13",
+    "description": "UPI/MOB/907223556339/Verified Merch ant",
+    "amount": -160.0,
+    "balance": 2036.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-14",
+    "description": "POS-VISA/POORVIKA/907309887397",
+    "amount": -1000.0,
+    "balance": 1036.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-15",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+OPERA HOUS E/907414001396",
+    "amount": -1000.0,
+    "balance": 36.12,
+    "type": "debit"
+  },
+  {
+    "date": "2019-03-31",
+    "description": "QUARTERLY SAVINGS INTEREST CREDIT",
+    "amount": 9.0,
+    "balance": 45.12,
+    "type": "credit"
+  }
+]

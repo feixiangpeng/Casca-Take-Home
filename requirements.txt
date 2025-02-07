@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+nltk
+pytesseract
+pdf2image
+PyPDF2
+opencv-python
+plotly
+python-dateutil
+joblib

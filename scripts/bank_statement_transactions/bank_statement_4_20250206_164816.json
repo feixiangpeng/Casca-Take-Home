@@ -1,0 +1,344 @@
+[
+  {
+    "date": "2017-10-14 00:00:00",
+    "description": "OPENING BALANCE",
+    "amount": 0.0,
+    "balance": 2217.29,
+    "type": "credit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-10-15 00:00:00",
+    "description": "Alinta Sales Pty Ltd NetBank BPAY 2733 0400032246",
+    "amount": -50.0,
+    "balance": 2167.29,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-10-23 00:00:00",
+    "description": "VIRGIN MONEY NetBank BPAY 49551 4724373501635385",
+    "amount": -1000.0,
+    "balance": 1167.29,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-10-23 00:00:00",
+    "description": "Transfer to xx6832 NetBank",
+    "amount": -70.0,
+    "balance": 1097.29,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-10-23 00:00:00",
+    "description": "Direct Debit 180247 SGIO MOT563142623171021",
+    "amount": -56.42,
+    "balance": 1040.87,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-10-26 00:00:00",
+    "description": "Direct Debit 165969 JETTS KINGSWAY 201724473788",
+    "amount": -27.9,
+    "balance": 1012.97,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-01 00:00:00",
+    "description": "Account Fee",
+    "amount": -4.0,
+    "balance": 1008.97,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-01 00:00:00",
+    "description": "Direct Credit 421520 JESSICA LAING JL - Internet",
+    "amount": 40.0,
+    "balance": 1048.97,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-01 00:00:00",
+    "description": "Transfer from xx8727 CommBank app",
+    "amount": 1000.0,
+    "balance": 2048.97,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-01 00:00:00",
+    "description": "Direct Debit 000702 HBF - HEALTH 1439123504",
+    "amount": -122.25,
+    "balance": 1926.72,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-05 00:00:00",
+    "description": "Transfer to other Bank NetBank Oronsay",
+    "amount": -700.0,
+    "balance": 1226.72,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-07 00:00:00",
+    "description": "TELSTRA CORP LTD NetBank BPAY 23796 2000353972134",
+    "amount": -115.0,
+    "balance": 1111.72,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-09 00:00:00",
+    "description": "Direct Debit 165969 JETTS KINGSWAY 201725516901",
+    "amount": -27.9,
+    "balance": 1083.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-21 00:00:00",
+    "description": "Direct Debit 180247 SGIO MOT563142623171121",
+    "amount": -56.42,
+    "balance": 1027.4,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-22 00:00:00",
+    "description": "Direct Debit 068093 SYNERGY RETAIL B 257300733078",
+    "amount": -190.7,
+    "balance": 836.7,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-11-23 00:00:00",
+    "description": "Direct Debit 165969 JETTS KINGSWAY 201726554790",
+    "amount": -27.9,
+    "balance": 808.8,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-01 00:00:00",
+    "description": "Account Fee",
+    "amount": -4.0,
+    "balance": 804.8,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-01 00:00:00",
+    "description": "Direct Credit 421520 JESSICA LAING JL - Internet",
+    "amount": 40.0,
+    "balance": 844.8,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-01 00:00:00",
+    "description": "Transfer from xx8727 NetBank",
+    "amount": 1000.0,
+    "balance": 1844.8,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-01 00:00:00",
+    "description": "Transfer to xx6832 NetBank",
+    "amount": -70.0,
+    "balance": 1774.8,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-01 00:00:00",
+    "description": "Direct Debit 000702 HBF - HEALTH 1439123504",
+    "amount": -122.25,
+    "balance": 1652.55,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-05 00:00:00",
+    "description": "Transfer to other Bank NetBank Oronsay",
+    "amount": -700.0,
+    "balance": 952.55,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-06 00:00:00",
+    "description": "TAX OFFICE PAYMENTS NetBank BPAY 75556 551004045508468221 ATO tax 2016 to 20",
+    "amount": -850.75,
+    "balance": 101.8,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-06 00:00:00",
+    "description": "Transfer from xx8727 NetBank",
+    "amount": 700.0,
+    "balance": 801.8,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-07 00:00:00",
+    "description": "TELSTRA CORP LTD NetBank BPAY 23796 2000353972134",
+    "amount": -115.0,
+    "balance": 686.8,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-07 00:00:00",
+    "description": "Direct Debit 165969 JETTS KINGSWAY 201727539277",
+    "amount": -27.9,
+    "balance": 658.9,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-21 00:00:00",
+    "description": "Direct Debit 180247 SGIO MOT563142623171221",
+    "amount": -56.42,
+    "balance": 602.48,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-21 00:00:00",
+    "description": "Direct Debit 165969 JETTS KINGSWAY 201728541361",
+    "amount": -27.9,
+    "balance": 574.58,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2017-12-27 00:00:00",
+    "description": "Direct Credit 106600 CAMERON BROWNING Ool party thanks x",
+    "amount": 20.0,
+    "balance": 594.58,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-01 00:00:00",
+    "description": "Account Fee",
+    "amount": -4.0,
+    "balance": 590.58,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-02 00:00:00",
+    "description": "Direct Credit 421520 JESSICA LAING JL - Internet",
+    "amount": 40.0,
+    "balance": 630.58,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-02 00:00:00",
+    "description": "Direct Debit 000702 HBF - HEALTH 1439123504",
+    "amount": -122.25,
+    "balance": 508.33,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-04 00:00:00",
+    "description": "Transfer from xx8727 CommBank app",
+    "amount": 800.0,
+    "balance": 1308.33,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-04 00:00:00",
+    "description": "Transfer to xx6832 CommBank app",
+    "amount": -70.0,
+    "balance": 1238.33,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-04 00:00:00",
+    "description": "Direct Debit 165969 JETTS KINGSWAY 2018270979",
+    "amount": -27.9,
+    "balance": 1210.43,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-05 00:00:00",
+    "description": "Transfer to other Bank NetBank Oronsay",
+    "amount": -700.0,
+    "balance": 510.43,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-07 00:00:00",
+    "description": "TELSTRA CORP LTD NetBank BPAY 23796 2000353972134",
+    "amount": -115.0,
+    "balance": 395.43,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  },
+  {
+    "date": "2018-01-13 00:00:00",
+    "description": "CLOSING BALANCE",
+    "amount": 0.0,
+    "balance": 395.43,
+    "type": "credit",
+    "is_credit": false,
+    "source_file": "bank statement 4.pdf"
+  }
+]

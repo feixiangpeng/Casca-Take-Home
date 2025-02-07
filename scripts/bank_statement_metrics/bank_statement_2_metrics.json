@@ -1,0 +1,15 @@
+{
+    "metrics": {
+        "total_inflow": 5880.0,
+        "total_outflow": 3241.5999999999995,
+        "net_cash_flow": 2638.4000000000005,
+        "avg_monthly_inflow": 1960.0,
+        "avg_monthly_outflow": 1080.5333333333335,
+        "cash_flow_volatility": 1477.448466249237,
+        "negative_flow_months": 1,
+        "min_balance": 153.45,
+        "max_balance": 3797.53,
+        "num_overdrafts": 0,
+        "dscr": 1.8139190523198416
+    }
+}

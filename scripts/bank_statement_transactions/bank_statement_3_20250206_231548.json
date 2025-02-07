@@ -1,0 +1,83 @@
+[
+  {
+    "date": "2017-10-02 00:00:00",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 7265.0,
+    "balance": 10752.68,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  },
+  {
+    "date": "2017-10-03 00:00:00",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 6400.0,
+    "balance": 17152.68,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  },
+  {
+    "date": "2017-10-04 00:00:00",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 11911.98,
+    "balance": 29064.66,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  },
+  {
+    "date": "2017-10-11 00:00:00",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 4972.84,
+    "balance": 34037.5,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  },
+  {
+    "date": "2017-10-12 00:00:00",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 4510.0,
+    "balance": 38547.5,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  },
+  {
+    "date": "2017-10-12 00:00:00",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 5597.43,
+    "balance": 44144.93,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  },
+  {
+    "date": "2017-10-16 00:00:00",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 2641.08,
+    "balance": 46786.01,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  },
+  {
+    "date": "2017-10-17 00:00:00",
+    "description": "Electronic Deposit From CGS ADMINISTATOR",
+    "amount": 3036.78,
+    "balance": 49822.79,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  },
+  {
+    "date": "2017-10-20 00:00:00",
+    "description": "Electronic Deposit From 36 TREAS 310",
+    "amount": 760.0,
+    "balance": 50582.79,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 3.pdf"
+  }
+]

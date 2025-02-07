@@ -1,0 +1,164 @@
+[
+  {
+    "date": "2019-09-04 00:00:00",
+    "description": "LNK COOPERATIVE SW CD 4821 08DEC19 CPT",
+    "amount": 300.0,
+    "balance": 873.56,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-09 00:00:00",
+    "description": "P ADAMCZUK KASA 7420 TFR",
+    "amount": 50.0,
+    "balance": 923.56,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-11 00:00:00",
+    "description": "BARCLAYCARD CD 7420 DEB",
+    "amount": -2.5,
+    "balance": 921.06,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-15 00:00:00",
+    "description": "WESTERN VILLA CD 7420 DEB",
+    "amount": -240.0,
+    "balance": 681.06,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-16 00:00:00",
+    "description": "WINELEAF CD 7420 DEB",
+    "amount": -26.69,
+    "balance": 654.37,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-17 00:00:00",
+    "description": "LNK COOPERATIVE SW CD 7420 06DEC19 CPT",
+    "amount": -200.0,
+    "balance": 454.37,
+    "type": "credit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-18 00:00:00",
+    "description": "LV LIFE 03592291015W DD",
+    "amount": -33.03,
+    "balance": 421.34,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-22 00:00:00",
+    "description": "PARK FOOD AND WINE CD 7420 DEB",
+    "amount": -30.46,
+    "balance": 390.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-22 00:00:00",
+    "description": "LNK COOPERATIVE SW CD 7420 05DEC19 CPT",
+    "amount": -20.0,
+    "balance": 370.88,
+    "type": "credit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-25 00:00:00",
+    "description": "LNK COOPERATIVE SW CD 7420 03DEC19 CPT",
+    "amount": -200.0,
+    "balance": 170.88,
+    "type": "credit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-26 00:00:00",
+    "description": "UBER *TRIP LJSAM DEB",
+    "amount": -17.43,
+    "balance": 153.45,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-09-29 00:00:00",
+    "description": "D ROBERTSON DEB",
+    "amount": 960.0,
+    "balance": 1113.45,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-10-03 00:00:00",
+    "description": "WINELEAF CD 7420 DEB",
+    "amount": -17.0,
+    "balance": 1096.45,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-10-05 00:00:00",
+    "description": "KATE EYR G D LTD KEGD RP4679969826950500 FPI",
+    "amount": 790.0,
+    "balance": 1886.45,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-10-08 00:00:00",
+    "description": "LNK COOPERATIVE SW CD 7420 01DEC19 CPT",
+    "amount": -100.0,
+    "balance": 1786.45,
+    "type": "credit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-10-12 00:00:00",
+    "description": "LNK PO MITCHAM LAN CD 7420 30NOV19 CPT",
+    "amount": -10.0,
+    "balance": 1776.45,
+    "type": "credit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-10-12 00:00:00",
+    "description": "MIS BAR MLECZNY CD 7420 DEB",
+    "amount": -28.9,
+    "balance": 1747.55,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  },
+  {
+    "date": "2019-10-16 00:00:00",
+    "description": "SPORTSDIRECT 252 CD 7420 DEB",
+    "amount": -27.99,
+    "balance": 1719.56,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 2.pdf"
+  }
+]

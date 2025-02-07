@@ -1,0 +1,812 @@
+[
+  {
+    "date": "2018-04-01 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/809119519742/Oma Ram/BENE - VER",
+    "amount": -1.0,
+    "balance": 22.62,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-01 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/809119553510/Oma Ram/2000",
+    "amount": 2000.0,
+    "balance": 2022.62,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-03 00:00:00",
+    "description": "NACH/TP ACH Bajaj Finanac/88551679",
+    "amount": -1912.0,
+    "balance": 110.62,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-04 00:00:00",
+    "description": "APB-INW/HP644950 000009 3003",
+    "amount": 170.2,
+    "balance": 280.82,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-04 00:00:00",
+    "description": "POS-VISA/KARUN MEDICAL/809414290216",
+    "amount": -75.0,
+    "balance": 205.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-05 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/809521437177/NITI N POOJARI/null",
+    "amount": 3200.0,
+    "balance": 3405.82,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-10 00:00:00",
+    "description": "BILLPAY/RECH/VODAFONE PRE/181000095 662/10042018",
+    "amount": -509.0,
+    "balance": 2896.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-10 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+DONGRI OAT M/810020011497",
+    "amount": -2000.0,
+    "balance": 896.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-14 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/810418",
+    "amount": -500.0,
+    "balance": 396.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-20 00:00:00",
+    "description": "IMPS-RIB/Fund Trf/811010759849/Pay Rs300",
+    "amount": -300.0,
+    "balance": 96.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-20 00:00:00",
+    "description": "IMPS-RIB/FT-REV/811010759849/Pay Rs 300",
+    "amount": 300.0,
+    "balance": 396.82,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-20 00:00:00",
+    "description": "POS-VISA/MANSI MEDICAL/811013502615",
+    "amount": -75.0,
+    "balance": 321.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-22 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/811212400262/Chan drakant Yuv/BE",
+    "amount": 1.0,
+    "balance": 322.82,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-22 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/811212428216/Chan drakant Yuv/ch",
+    "amount": 4999.0,
+    "balance": 5321.82,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-22 00:00:00",
+    "description": "IMPS-RIB/Fund Trf/811212820665/Pay salary",
+    "amount": -1000.0,
+    "balance": 4321.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-22 00:00:00",
+    "description": "IMPS-RIB/Fund Trf/811213820961/Pay for salary",
+    "amount": -500.0,
+    "balance": 3821.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-23 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/811309",
+    "amount": -1000.0,
+    "balance": 2821.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-23 00:00:00",
+    "description": "IMPS-RIB/Fund Trf/811320861437/Pay salaryRs2500",
+    "amount": -2500.0,
+    "balance": 321.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-04-23 00:00:00",
+    "description": "IMPS-RIB/Fund Trf/811321862644/Pay 300",
+    "amount": -300.0,
+    "balance": 21.82,
+    "type": "credit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-03 00:00:00",
+    "description": "IMPS-INET/Fund Trf/812321002185/Cha ndrakant Yuv/I",
+    "amount": 2000.0,
+    "balance": 2021.82,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-05 00:00:00",
+    "description": "NACH/TP ACH Bajaj Finanac/97127969",
+    "amount": -1912.0,
+    "balance": 109.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-09 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+WHITE HOUS E/812912009989",
+    "amount": -100.0,
+    "balance": 9.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-09 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/812917902484/SACH IN PANDURAN/Fr",
+    "amount": 200.0,
+    "balance": 209.82,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-11 00:00:00",
+    "description": "IMPS-RIB/Fund Trf/813114420579/Pay salary",
+    "amount": -200.0,
+    "balance": 9.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-11 00:00:00",
+    "description": "IMPS-RIB/FT-REV/813114420579/Pay sa lary",
+    "amount": 200.0,
+    "balance": 209.82,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-11 00:00:00",
+    "description": "IMPS-RIB/Fund Trf/813117426391/Pay for arjant",
+    "amount": -200.0,
+    "balance": 9.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-11 00:00:00",
+    "description": "IMPS-RIB/FT-REV/813117426391/Pay fo r arjant",
+    "amount": 200.0,
+    "balance": 209.82,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-12 00:00:00",
+    "description": "BILLPAY/RECH/IDEA PREPAID/181320083 270/12052018",
+    "amount": -27.0,
+    "balance": 182.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-16 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+Sandhurst Road/8136190082",
+    "amount": -100.0,
+    "balance": 82.82,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-17 00:00:00",
+    "description": "APB-INW/HP644950 012055 1405",
+    "amount": 134.06,
+    "balance": 216.88,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-17 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/813700005886/RID- 24 SP/9090",
+    "amount": 6000.0,
+    "balance": 6216.88,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-18 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/813800005916/RID- 24 SP/0098",
+    "amount": 1200.0,
+    "balance": 7416.88,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-18 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+WADIBUNDER /813810005906",
+    "amount": -500.0,
+    "balance": 6916.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-20 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/814016",
+    "amount": -500.0,
+    "balance": 6416.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-20 00:00:00",
+    "description": "POS-VISA/KARUN MEDICAL/814016444557",
+    "amount": -75.0,
+    "balance": 6341.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-21 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/814110",
+    "amount": -1000.0,
+    "balance": 5341.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-21 00:00:00",
+    "description": "POS-VISA/FLIPKART PAYMENTS/81410945 1953",
+    "amount": -569.0,
+    "balance": 4772.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-21 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+GOVANDI EA ST BR/814117029",
+    "amount": -3000.0,
+    "balance": 1772.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-21 00:00:00",
+    "description": "POS-VISA/HOTEL SAROJ/814118881722",
+    "amount": -300.0,
+    "balance": 1472.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-23 00:00:00",
+    "description": "BILLPAY/RECH/VODAFONE PRE/181430064 620/23052018",
+    "amount": -100.0,
+    "balance": 1372.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-05-23 00:00:00",
+    "description": "BILLPAY/RECH/TATASKY DTH/1814300658 42/23052018",
+    "amount": -1000.0,
+    "balance": 372.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-06-01 00:00:00",
+    "description": "POS-VISA/Upper Crust Foods Pvt THAN E/815214619098",
+    "amount": -261.0,
+    "balance": 111.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-06-01 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/815200006812/RID- 24 SP/Payment",
+    "amount": 2000.0,
+    "balance": 2111.88,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-06-02 00:00:00",
+    "description": "NACH/TP ACH Bajaj Finanac/101294174",
+    "amount": -1912.0,
+    "balance": 199.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-06-06 00:00:00",
+    "description": "Charge:Cash Wdl at other ATM/Inv270 5181513668571/2",
+    "amount": -20.0,
+    "balance": 179.88,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-06-06 00:00:00",
+    "description": "CGST on Charge:Cash Wdl at other AT M/Inv2705181513",
+    "amount": -1.8,
+    "balance": 178.08,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-06-06 00:00:00",
+    "description": "SGST on Charge:Cash Wdl at other AT M/Inv2705181513",
+    "amount": -1.8,
+    "balance": 176.28,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-06-19 00:00:00",
+    "description": "APB-INW/HP644950 018603 1106",
+    "amount": 180.19,
+    "balance": 356.47,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-06-30 00:00:00",
+    "description": "CREDIT INTEREST CRED",
+    "amount": 9.0,
+    "balance": 365.47,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-01 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/818200008670/RID- 24 SP/Pay for",
+    "amount": 2000.0,
+    "balance": 2365.47,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-02 00:00:00",
+    "description": "NACH/TP ACH Bajaj Finanac/108265552",
+    "amount": -1912.0,
+    "balance": 453.47,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-03 00:00:00",
+    "description": "POS-VISA/KARUN MEDICAL/818406584956",
+    "amount": -75.0,
+    "balance": 378.47,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-05 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/818600008933/RID- 24 SP/Pay forl",
+    "amount": 6000.0,
+    "balance": 6378.47,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-05 00:00:00",
+    "description": "BILLPAY/QUICK/Tata Power /181862237 092/05072018",
+    "amount": -4708.0,
+    "balance": 1670.47,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-06 00:00:00",
+    "description": "POS-VISA/Chembur Trombay EducatMUMB AI/818716574514",
+    "amount": -473.56,
+    "balance": 1196.91,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-07 00:00:00",
+    "description": "BILLPAY/RECH/VIDEOCON DTH/181882351 400/07072018",
+    "amount": -285.0,
+    "balance": 911.91,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-07 00:00:00",
+    "description": "BILLPAY/RECH/AIRTEL PREPA/181882382 248/07072018",
+    "amount": -199.0,
+    "balance": 712.91,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-08 00:00:00",
+    "description": "BILLPAY/RECH/IDEA PREPAID/181892448 103/08072018",
+    "amount": -398.0,
+    "balance": 314.91,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-13 00:00:00",
+    "description": "POS-VISA/MANSI MEDICAL/819413057303",
+    "amount": -75.0,
+    "balance": 239.91,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-13 00:00:00",
+    "description": "POS-VISA/MANSI MEDICAL/819413154044",
+    "amount": -229.0,
+    "balance": 10.91,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-21 00:00:00",
+    "description": "APB-INW/HP644950 027334 1307",
+    "amount": 234.41,
+    "balance": 245.32,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-24 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/820500",
+    "amount": -100.0,
+    "balance": 145.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-07-24 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+HIRANANDAN I AKRUTI/820500",
+    "amount": -100.0,
+    "balance": 45.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-02 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/821400010710/BAYY AN MA/Ok",
+    "amount": 2000.0,
+    "balance": 2045.32,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-06 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+GRANT ROAD BR/82181001789",
+    "amount": -500.0,
+    "balance": 1545.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-07 00:00:00",
+    "description": "IMPS-INET/Fund Trf/821922266679/Cha n/Neft_transac",
+    "amount": 1000.0,
+    "balance": 2545.32,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-08 00:00:00",
+    "description": "POS-VISA/MOBIKWK/822005940645",
+    "amount": -2362.0,
+    "balance": 183.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-13 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/NEAR HINDUJ A COLLEGE/82251",
+    "amount": -100.0,
+    "balance": 83.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-15 00:00:00",
+    "description": "POS-VISA/KARUN MEDICAL/822706734149",
+    "amount": -75.0,
+    "balance": 8.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-17 00:00:00",
+    "description": "IMPS-RIB/Fund Trf/823000040666/Pay for argant",
+    "amount": -3.0,
+    "balance": 5.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-31 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/824301262361/FINN OVATION DIS/Ac",
+    "amount": 1.0,
+    "balance": 6.32,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-31 00:00:00",
+    "description": "IMPS-MOB/Fund Trf/824301262609/FINN OVATION DIS/Di",
+    "amount": 4500.0,
+    "balance": 4506.32,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-08-31 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+BOB/824315 013476",
+    "amount": -500.0,
+    "balance": 4006.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-01 00:00:00",
+    "description": "POS-VISA/KARUN MEDICAL/824405792484",
+    "amount": -75.0,
+    "balance": 3931.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-01 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+DEONAR ST ROAD/8244112849",
+    "amount": -500.0,
+    "balance": 3431.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-01 00:00:00",
+    "description": "POS-VISA/MOBIKWIK/824416007647",
+    "amount": -285.0,
+    "balance": 3146.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-02 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+TATA NAGAR /824511007593",
+    "amount": -500.0,
+    "balance": 2646.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-03 00:00:00",
+    "description": "POS-VISA/MOBIKWIK/824604139262",
+    "amount": -285.0,
+    "balance": 2361.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-03 00:00:00",
+    "description": "NACH/TP ACH Bajaj Finanac/122175597",
+    "amount": -1912.0,
+    "balance": 449.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-04 00:00:00",
+    "description": "POS-VISA/MOBIKWIK/824711501605",
+    "amount": -285.0,
+    "balance": 164.32,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-05 00:00:00",
+    "description": "APB-INW/HP644950 041318 2708",
+    "amount": 268.63,
+    "balance": 432.95,
+    "type": "credit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-05 00:00:00",
+    "description": "BILLPAY/RECH/VIDEOCON DTH/182486873 315/05092018",
+    "amount": -285.0,
+    "balance": 147.95,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-05 00:00:00",
+    "description": "BILLPAY/RECHONREV/182486873315/0509 2018",
+    "amount": 285.0,
+    "balance": 432.95,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-05 00:00:00",
+    "description": "BILLPAY/RECH/VIDEOCON DTH/182486873 393/05092018",
+    "amount": -285.0,
+    "balance": 147.95,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-07 00:00:00",
+    "description": "ATM-NFS/CASH WITHDRAWAL/+GOLD COINA PLOT NO/825014",
+    "amount": -100.0,
+    "balance": 47.95,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-12 00:00:00",
+    "description": "IMPS-BRC/Fund Trf/825519008950/Omar am Patel/null",
+    "amount": 1.0,
+    "balance": 48.95,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-12 00:00:00",
+    "description": "IMPS-BRC/Fund Trf/825519011169/gopa l gopa/null",
+    "amount": 1.0,
+    "balance": 49.95,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-12 00:00:00",
+    "description": "IMPS-BRC/Fund Trf/825519012774/gopa l gopa/null",
+    "amount": 200.0,
+    "balance": 249.95,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-12 00:00:00",
+    "description": "IMPS-BRC/Fund Trf/825519012772/gopa l gopa/null",
+    "amount": 5000.0,
+    "balance": 5249.95,
+    "type": "debit",
+    "is_credit": true,
+    "source_file": "bank statement 1.pdf"
+  },
+  {
+    "date": "2018-09-12 00:00:00",
+    "description": "POS-VISA/FINNOVATION TECH SOLUTNEW DELH/8255157419",
+    "amount": -5127.89,
+    "balance": 122.06,
+    "type": "debit",
+    "is_credit": false,
+    "source_file": "bank statement 1.pdf"
+  }
+]

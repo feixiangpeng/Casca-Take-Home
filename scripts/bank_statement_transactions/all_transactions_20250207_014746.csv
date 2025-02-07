@@ -1,0 +1,27 @@
+date,description,amount,balance,type,is_credit,source_file
+2019-11-01,Cash Deposit,5000.0,505491.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-01,Cash Deposit,12000.0,517491.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-01,Cash Deposit,11000.0,528491.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-03,Cash Deposit,13000.0,541491.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-04,Cash Deposit,-75000.0,466491.59,debit,False,Financial-Examples-for-I20.pdf
+2019-11-05,Cash Deposit,54000.0,520491.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-06,Cash Deposit,1000.0,521491.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-07,Cash Deposit,60100.0,581591.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-10,Cash Deposit,5000.0,586591.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-10,Cash Deposit,7580.0,594171.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-10,Cash Deposit,-58620.0,535551.59,debit,False,Financial-Examples-for-I20.pdf
+2019-11-12,Cash Deposit,1000.0,536551.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-12,Cash Deposit,30.0,536581.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-13,Cash Deposit,450.0,537031.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-14,Cash Deposit,7500.0,544531.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-15,Cash Deposit,351210.0,895741.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-15,Cash Deposit,56120.0,951861.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-16,Cash Deposit,8000.0,959861.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-16,Cash Deposit,900.0,960761.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-16,Cash Deposit,310.0,961071.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-16,Cash Deposit,-542000.0,419071.59,debit,False,Financial-Examples-for-I20.pdf
+2019-11-17,Cash Deposit,-3000.0,416071.59,debit,False,Financial-Examples-for-I20.pdf
+2019-11-18,Cash Deposit,5400.0,421471.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-18,Cash Deposit,500.0,421971.59,credit,True,Financial-Examples-for-I20.pdf
+2019-11-20,Cash Deposit,-1000.0,420971.59,debit,False,Financial-Examples-for-I20.pdf
+2019-11-20,Cash Deposit,450.0,421421.59,credit,True,Financial-Examples-for-I20.pdf

@@ -2,5 +2,7 @@ This system automates loan decisions by analyzing bank statements through a mult
 
 To run:
 Install dependencies with "pip install -r requirements.txt"
+
 Add OPEN API Key to .env file
+
 Run with command "streamlit run scripts/test.py"
